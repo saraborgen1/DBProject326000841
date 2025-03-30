@@ -78,10 +78,10 @@
 - Player  
 
 קבצים לדוגמה:  
-- שלב א/mockarooFiles/CoachMOCK_DATA.csv 
-- שלב א/mockarooFiles/GameMOCK_DATA.csv
-- שלב א/mockarooFiles/RefereeMOCK_DATA.csv
-- שלב א/mockarooFiles/TournamentMOCK_DATA.csv
+- [CoachMOCK_DATA.csv](שלב א/mockarooFiles/CoachMOCK_DATA.csv)  
+- [GameMOCK_DATA.csv](שלב א/mockarooFiles/GameMOCK_DATA.csv)  
+- [RefereeMOCK_DATA.csv](שלב א/mockarooFiles/RefereeMOCK_DATA.csv)  
+- [TournamentMOCK_DATA.csv](שלב א/mockarooFiles/TournamentMOCK_DATA.csv)
 
 ---
 
