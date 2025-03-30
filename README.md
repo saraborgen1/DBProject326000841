@@ -30,13 +30,11 @@
 ---
 
 ## ERD – תרשים ישויות וקשרים  
-צרף כאן את קובץ ה־ERD שלך (למשל: `ERD.png`)
-
+שלב א/ERDAndDSTFiles/תרשים ERD .png
 ---
 
 ## DSD – תרשים מבנה נתונים  
-https://github.com/saraborgen1/DBProject326000841/blob/main/%D7%A9%D7%9C%D7%91%20%D7%90/ERDAndDSTFiles/%D7%AA%D7%A8%D7%A9%D7%99%D7%9D%20DSD.png
----
+שלב א/ERDAndDSTFiles/תרשים DSD.png--- 
 
 ## החלטות עיצוב
 
