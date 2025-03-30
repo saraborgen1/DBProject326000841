@@ -75,7 +75,7 @@
 - Coach
 - Game  
 - Referee  
-- Player  
+- Tournament  
 
 קבצים לדוגמה:  
 - [CoachMOCK_DATA.csv](שלב א/mockarooFiles/CoachMOCK_DATA.csv)  
@@ -87,14 +87,12 @@
 
 ### שיטה 2: GenerateData  
 שימש ליצירת נתונים עבור:
-- Tournament  
-- Game  
+- Compets  
 - NationalTeam  
 
 קבצים לדוגמה:  
-- tournamentGenerateData.csv  
-- gameGenerateData.csv  
-- nationalTeamGenerateData.csv
+- [Competsgeneratedata.csv](שלב%20א/generatedataFiles/Competsgeneratedata.csv)  
+- [nationalteamgenerateData.csv](שלב%20א/generatedataFiles/nationalteamgenerateData.csv)
 
 ---
 
