@@ -72,14 +72,16 @@
 
 ### שיטה 1: Mockaroo  
 שימש ליצירת נתונים עבור הטבלאות:
-- Coach  
+- Coach
+- Game  
 - Referee  
 - Player  
 
 קבצים לדוגמה:  
-- coachMock_data.csv  
-- refereeMock_data.csv  
-- playerMock_data.csv
+- שלב א/mockarooFiles/CoachMOCK_DATA.csv 
+- שלב א/mockarooFiles/GameMOCK_DATA.csv
+- שלב א/mockarooFiles/RefereeMOCK_DATA.csv
+- שלב א/mockarooFiles/TournamentMOCK_DATA.csv
 
 ---
 
