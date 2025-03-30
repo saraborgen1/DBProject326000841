@@ -99,15 +99,12 @@
 ### שיטה 3: Python Script  
 שימש ליצירת פקודות SQL עבור:
 - Officiated_By  
-- Compets  
 
-קבצי קוד:
-- generate_officiated_by.py  
-- generate_compets.py  
+קבצי קוד:  
+- [generate_officiated_by.py](שלב%20א/Programing/generate_officiated_by.py)
 
-קבצי פלט:
-- insert_officiated_by.sql  
-- insert_compets.sql
+קבצי פלט:  
+- [insert_officiated_by.sql](שלב%20א/Programing/insert_officiated_by.sql)
 
 ---
 
