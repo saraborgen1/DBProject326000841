@@ -82,6 +82,8 @@
 - [GameMOCK_DATA.csv](שלב%20א/mockarooFiles/GameMOCK_DATA.csv)  
 - [RefereeMOCK_DATA.csv](שלב%20א/mockarooFiles/RefereeMOCK_DATA.csv)  
 - [TournamentMOCK_DATA.csv](שלב%20א/mockarooFiles/TournamentMOCK_DATA.csv)
+תמונה:
+![צילום מסך 2025-03-30 143231](https://github.com/user-attachments/assets/1b2e22cb-872b-4d1d-9c93-6e5bb3e1bfbc)
 
 ---
 
@@ -93,6 +95,9 @@
 קבצים לדוגמה:  
 - [Competsgeneratedata.csv](שלב%20א/generatedataFiles/Competsgeneratedata.csv)  
 - [nationalteamgenerateData.csv](שלב%20א/generatedataFiles/nationalteamgenerateData.csv)
+תמונה:
+
+![צילום מסך 2025-03-30 150846](https://github.com/user-attachments/assets/5a9ac7d9-2398-4edb-836d-b581765dc8b6)
 
 ---
 
@@ -105,6 +110,9 @@
 
 קבצי פלט:  
 - [insert_officiated_by.sql](שלב%20א/Programing/insert_officiated_by.sql)
+תמונה:
+
+![צילום מסך 2025-03-30 150846](https://github.com/user-attachments/assets/fa92b9e1-eb20-497d-a55d-374c327397b4)
 
 ---
 
