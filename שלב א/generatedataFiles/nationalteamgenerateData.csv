@@ -1,0 +1,301 @@
+TeamID,FIBA_Ranking,TeamCountry,UniformColor,TeamName,CoachID
+1,113,Costa Rica,#e59492,Tranås,115
+2,95,Ukraine,#c49f27,Anhui,67
+3,27,Chile,#39c684,Acacías,117
+4,99,South Korea,#742bc6,Monclova,265
+5,121,Chile,#24187c,Vinnytsia,230
+6,86,Italy,#795af4,Anlier,7
+7,104,Colombia,#6e3da0,Columbus,163
+8,62,Canada,#8ad4f7,Diamer,114
+9,98,Peru,#6d7ace,Dera Ismail Khan,21
+10,36,Costa Rica,#a9a7f2,Pietermaritzburg,40
+11,129,Belgium,#e25fb0,Seogwipo,158
+12,132,India,#4742a5,Hammerfest,111
+13,11,Austria,#ea0496,Shillong,14
+14,7,Ireland,#93ef8b,Onitsha,12
+15,44,Ireland,#088406,Yishun,66
+16,66,India,#67ef5b,Alwar,293
+17,138,Indonesia,#36c13a,Ashburton,39
+18,39,United States,#8af2ba,Queenstown,159
+19,74,Turkey,#b6aaed,San José de Alajuela,265
+20,93,Spain,#74f7a2,Sint-Jans-Molenbeek,44
+21,106,Poland,#a68cd8,Khyber Agency,131
+22,53,Singapore,#d60256,Chía,40
+23,133,Nigeria,#ccf8ff,Juneau,43
+24,61,Ireland,#af164c,Gboko,110
+25,119,Philippines,#142972,Gimcheon,6
+26,122,France,#d2ccff,Ceuta,274
+27,20,China,#231782,Maullín,123
+28,141,Russian Federation,#db067b,Amroha,157
+29,49,United States,#4ad35e,Telde,227
+30,92,South Korea,#8ccc43,Loncoche,181
+31,43,Ukraine,#c1d657,Whangarei,58
+32,73,South Korea,#92dddd,Candon,89
+33,117,India,#2d259b,Vilcún,163
+34,89,Pakistan,#53c8e0,Nieuwegein,239
+35,16,Spain,#e572c8,Galway,111
+36,129,Vietnam,#13a553,Knoxville,15
+37,43,Sweden,#e21d5f,Long Xuyên,28
+38,79,Canada,#d32679,Lummen,113
+39,73,Australia,#4ce0d6,Oakham,261
+40,82,Canada,#f2809e,North Waziristan,170
+41,34,Ukraine,#c7fca6,Chapecó,46
+42,109,United States,#f7a8e3,Wolfurt,91
+43,127,France,#63ce1c,Jiangxi,147
+44,48,Chile,#46db66,Oslo,158
+45,15,Ukraine,#3c1889,Galway,151
+46,14,France,#80c4f2,Piura,82
+47,146,Italy,#d9ef4c,Scandriglia,76
+48,36,South Korea,#4e8ace,Täby,28
+49,7,Ukraine,#78e8b9,Saint-Sébastien-sur-Loire,121
+50,6,Ireland,#c91696,Jayapura,175
+51,149,Spain,#e5e52b,Pozantı,232
+52,93,South Africa,#377705,Itanagar,89
+53,133,France,#eaac72,Queenstown,65
+54,65,Norway,#75eaea,Irkutsk,154
+55,45,Colombia,#97f4d5,Cáceres,277
+56,116,Indonesia,#a6fc94,Cork,136
+57,122,United Kingdom,#a495db,Gisborne,72
+58,39,Pakistan,#f7a0e7,Kano,135
+59,40,Norway,#ce1a6e,Ibagué,282
+60,67,Netherlands,#a040e5,Cork,91
+61,24,South Africa,#7abdd3,Karachi,207
+62,137,France,#6098d1,Wrocław,174
+63,45,China,#230fd8,Oberursel,100
+64,11,Pakistan,#15c6c6,Stockton-on-Tees,72
+65,42,New Zealand,#93f1f9,Almere,99
+66,52,United Kingdom,#f4c7fc,Blagoveshchensk,213
+67,41,Ukraine,#f2d580,Aguacaliente (San Francisco],244
+68,102,Indonesia,#e800d8,Bogotá,63
+69,55,Singapore,#3dc902,Dieppe,79
+70,50,China,#b3e283,Queenstown,104
+71,81,United Kingdom,#087a58,Kon Tum,173
+72,65,Australia,#39ddc2,Dublin,36
+73,141,Vietnam,#dcea8c,Galway,117
+74,52,Germany,#51e23b,Pangkalpinang,39
+75,139,New Zealand,#efec1a,Mukachevo,24
+76,68,South Korea,#e0ca21,Hennigsdorf,158
+77,43,Belgium,#f4a661,Kotlas,267
+78,139,India,#f981dd,Kashmore,141
+79,85,Belgium,#8bf9a0,Brunn am Gebirge,133
+80,75,Peru,#eef779,Panjim,283
+81,89,Singapore,#00af26,Cuttack,180
+82,93,Brazil,#a4bee8,Pike Creek,223
+83,148,Russian Federation,#05afaa,Vallentuna,97
+84,97,Australia,#f43dcd,l'Ecluse,299
+85,54,Costa Rica,#fcc202,Rio Verde,9
+86,36,Pakistan,#590bba,Owerri,113
+87,100,Ukraine,#056a8c,Jiutepec,209
+88,33,Austria,#edbef7,Wałbrzych,114
+89,134,Belgium,#2963f4,Weyburn,137
+90,66,Nigeria,#f99843,Murray Bridge,296
+91,2,New Zealand,#d11b88,Dijon,291
+92,39,South Korea,#d15ee0,Acoz,184
+93,45,Canada,#f9f616,Warri,243
+94,108,Germany,#fce29c,Geelong,29
+95,51,Pakistan,#ef8dcb,Oaxaca,106
+96,99,Ireland,#cdb3ef,Mercedes,122
+97,37,Brazil,#143782,Santa Inês,84
+98,102,South Korea,#9d5fb7,Gwadar,20
+99,21,Netherlands,#09ba26,Okene,297
+100,101,Philippines,#af8fe0,Puerto Princesa,170
+101,122,Netherlands,#077a09,Pleiku,49
+102,44,United Kingdom,#f4b781,Jiutepec,43
+103,49,United Kingdom,#4bc4fc,Hawick,106
+104,96,Singapore,#e2a006,Great Falls,187
+105,94,Peru,#bc4012,Birecik,98
+106,69,Germany,#53a518,Málaga,212
+107,127,Australia,#e82c42,Ryazan,237
+108,64,Vietnam,#f4d446,Whyalla,12
+109,112,United States,#45f9ea,Berlin,298
+110,135,Australia,#68d84b,Kitscoty,179
+111,108,Philippines,#eda3b7,Ilagan,237
+112,140,Vietnam,#a4a8fc,Épernay,270
+113,95,Poland,#f9f693,Karachi,249
+114,105,Norway,#c4315a,Dumai,224
+115,21,Belgium,#cde26c,Cork,136
+116,110,Ukraine,#5b1cce,Belfast,199
+117,36,Turkey,#6526a8,Dublin,161
+118,12,Nigeria,#f4a681,Mường Lay,83
+119,140,Chile,#ff8ce6,Straits View,265
+120,37,Brazil,#4f4ff2,Stratford-upon-Avon,268
+121,80,Austria,#ce2189,Palmilla,122
+122,118,Singapore,#4d2cba,Sandnes,7
+123,77,Philippines,#a5ff91,Breda,229
+124,107,Spain,#f27e48,Christchurch,123
+125,26,Australia,#9cfcaa,Narbonne,128
+126,113,Ireland,#6311fc,Wangaratta,156
+127,19,New Zealand,#8547ef,Słupsk,275
+128,36,Norway,#fcaa9c,Mora,172
+129,116,France,#f29d43,Gangneung,281
+130,86,Colombia,#e5b48b,Itanagar,27
+131,126,Ukraine,#f3a3f7,Kansas City,145
+132,111,Pakistan,#03a303,Filot,114
+133,48,New Zealand,#7b9be5,Rechnitz,259
+134,50,Philippines,#cfb0fc,Steyr,11
+135,91,France,#e090f4,Me,225
+136,116,Poland,#a2e88b,Owerri,105
+137,118,South Korea,#e398ea,Landeck,120
+138,132,Pakistan,#f7bbc6,Avesta,16
+139,74,France,#ba3916,Reinbek,137
+140,84,Brazil,#f4b7c3,Tver,35
+141,76,Nigeria,#18177a,Zhytomyr,233
+142,92,France,#98d350,Semarang,118
+143,105,Peru,#a6c631,Punggol,65
+144,72,Mexico,#ffccf8,Los Ángeles,45
+145,102,Netherlands,#c6c60b,Santiago,16
+146,11,Chile,#11c1f7,Wolfsburg,161
+147,111,Colombia,#eca9f2,Laramie,296
+148,19,South Africa,#5abf24,Evere,219
+149,146,New Zealand,#a8d8ed,Itajaí,158
+150,113,Peru,#b649e5,Worms,45
+151,46,Norway,#79f291,Mmabatho,223
+152,14,Pakistan,#9af4d2,Villeneuve-d'Ascq,148
+153,11,Vietnam,#128891,Chattanooga,270
+154,98,South Africa,#58a8bc,Tual,163
+155,2,Germany,#c914e5,Nijkerk,56
+156,45,Peru,#ba2a5c,Pacoa,215
+157,91,Nigeria,#1e6aed,Villavicencio,86
+158,73,Singapore,#b7194e,Murcia,218
+159,124,Spain,#e244b0,Kawerau,247
+160,14,Canada,#c12449,Ningxia,19
+161,40,Russian Federation,#300670,Ulsan,144
+162,28,Colombia,#cdf291,Puerto Colombia,298
+163,47,Spain,#87ff99,Jecheon,234
+164,48,Peru,#cc3928,Pioneer,85
+165,90,Australia,#ba214f,Belém,292
+166,143,Canada,#88efa4,Tallahassee,63
+167,117,Pakistan,#94efee,Tagum,71
+168,95,France,#ef64e6,Dieppe,70
+169,51,Mexico,#b6ea77,Ergani,93
+170,36,Spain,#d3ffb2,Gatineau,206
+171,25,Belgium,#d67ded,Changi Bay,265
+172,141,China,#aaf49a,Nivelles,48
+173,110,Vietnam,#6ee50d,Narimanov,266
+174,6,Turkey,#f9c2e4,Badajoz,27
+175,15,Colombia,#fccdc2,Alajuela,21
+176,137,Spain,#f44ed6,Yeongcheon,290
+177,13,Poland,#046bd3,Molde,279
+178,129,Chile,#75e5da,General Lagos,29
+179,28,Turkey,#240a66,Itapipoca,157
+180,2,Pakistan,#e310f2,Quesada,226
+181,119,Belgium,#b5daff,Feilding,160
+182,41,Ireland,#fcf6b8,Turrialba,140
+183,18,Austria,#5582d1,Qambar Shahdadkot,198
+184,94,France,#3dccc2,Palma de Mallorca,74
+185,1,Germany,#0ad699,Cherbourg-Octeville,166
+186,87,Nigeria,#c69823,Chattanooga,28
+187,17,Ukraine,#f4ec09,Alta,49
+188,148,Chile,#cff771,Sierning,118
+189,107,South Africa,#7de8e2,Guizhou,19
+190,14,Australia,#c120f7,Hastings,75
+191,102,Netherlands,#014cbc,Skudeneshavn,18
+192,12,Poland,#ad28d6,Icheon,292
+193,21,Canada,#23ed2a,San Rafael Abajo,275
+194,45,South Africa,#7bc2e0,Bukit Batok,189
+195,131,Costa Rica,#c14766,Pitalito,185
+196,102,Mexico,#d8d33c,Recoleta,27
+197,34,Canada,#7681c9,Dnipro,210
+198,64,Australia,#54d376,Palmerston,252
+199,12,China,#9df76c,Seletar,209
+200,10,Brazil,#6390e2,Mérida,141
+201,106,Austria,#f9d845,Osogbo,12
+202,3,Australia,#91f7b7,Zwelitsha,87
+203,144,China,#d15929,Montenegro,146
+204,56,United States,#fceaba,La Dorada,189
+205,134,Poland,#8dff89,Cametá,212
+206,102,Vietnam,#b2ef40,Orhangazi,92
+207,23,Peru,#ca32e5,Allappuzha,297
+208,47,Pakistan,#eeb3f2,Suncheon,155
+209,88,Brazil,#f2cc35,Kurram Agency,96
+210,140,United States,#2a7099,Herk-de-Stad,198
+211,50,Netherlands,#adef83,Guadalajara,58
+212,67,South Korea,#e874c9,Langenburg,189
+213,147,India,#b890e5,Glendale,270
+214,106,Russian Federation,#be13c1,Oslo,224
+215,25,Indonesia,#2eea60,Norfolk,276
+216,19,China,#e323ea,Słupsk,62
+217,60,Indonesia,#8283e0,Caruaru,277
+218,58,India,#23a5dd,Velden am Wörther See,289
+219,72,Peru,#9ea0ed,Santander,242
+220,38,Sweden,#c9471c,Lloydminster,224
+221,119,Ireland,#28cc90,Kotli,38
+222,144,Spain,#e9a7f2,Kremenchuk,144
+223,72,United States,#bf9be8,Giyani,138
+224,49,Singapore,#2dcbce,Nowshera,19
+225,138,Russian Federation,#20d659,Castelluccio Superiore,295
+226,42,Nigeria,#71fcb2,Varash,64
+227,33,Ukraine,#53ed5a,Ludvika,232
+228,13,Belgium,#f9b8d8,Itanagar,163
+229,42,Colombia,#f9e154,Belfast,92
+230,128,Italy,#87ffb1,General Trias,202
+231,98,Australia,#13107c,Sabadell,289
+232,110,Canada,#fc925d,Lerum,81
+233,101,Costa Rica,#3c56bc,Baulers,172
+234,132,South Korea,#efcf88,New Plymouth,29
+235,46,Norway,#92fcc2,Warszawa,124
+236,33,Belgium,#40d6d3,Ternate,26
+237,86,China,#2d2f93,Renca,200
+238,37,South Africa,#ed36b3,Barrancabermeja,223
+239,85,Pakistan,#8d55c1,Kovel,92
+240,75,Norway,#f779b8,Cartagena,192
+241,140,Germany,#c761f9,Tengah,56
+242,13,Philippines,#766cf7,Bila Tserkva,76
+243,143,Norway,#6e87d1,Poitiers,177
+244,127,Poland,#ef6926,Roosendaal,274
+245,114,Austria,#d8ed40,Ghanche,223
+246,107,New Zealand,#e07d26,Retford,264
+247,64,Singapore,#eda89c,Ogbomosho,187
+248,140,Brazil,#c14179,Piura,159
+249,72,Philippines,#e8c83a,Kuruman,185
+250,51,Sweden,#bf0335,Oleksandriia,105
+251,81,China,#6de8ac,Funtua,191
+252,84,China,#62fcc1,Freirina,43
+253,73,Vietnam,#eac28f,Heusweiler,153
+254,44,Germany,#b3f481,Helena,99
+255,48,United States,#f20034,The Hague,168
+256,106,Canada,#4976d8,Kawerau,253
+257,17,Germany,#14e8a5,Cuautla,275
+258,58,South Africa,#d0bdfc,Comox,268
+259,123,Belgium,#bf1e2b,León,211
+260,93,Colombia,#7b16ce,Schwalbach,213
+261,18,Austria,#b90dbf,Pamplona,116
+262,26,Indonesia,#5d0987,Lelystad,62
+263,26,Netherlands,#c13e2a,San Pedro de Atacama,243
+264,46,Vietnam,#5c7501,East Linton,104
+265,16,Mexico,#f47793,Ełk,227
+266,41,Mexico,#b8c130,Renlies,124
+267,137,South Korea,#6ad60c,Beausejour,32
+268,36,Sweden,#f7dc65,Arequipa,297
+269,142,Norway,#b2f9a7,Navojoa,97
+270,105,South Korea,#07fcbb,Motueka,202
+271,108,Ireland,#f720a1,Camarones,56
+272,29,Poland,#ea8512,North-Eastern Islands,10
+273,58,Russian Federation,#d7e02f,Stockholm,189
+274,112,Belgium,#41aae2,Volda,81
+275,36,Peru,#f9c2eb,Chilpancingo,44
+276,22,Vietnam,#d8961c,Murmansk,275
+277,107,France,#bdd86c,Terrance,198
+278,7,Ukraine,#323db5,Finspång,124
+279,134,Australia,#c6b900,Sosnowiec,292
+280,82,Ukraine,#f97b13,Ningxia,8
+281,125,Pakistan,#f90244,Ternopil,82
+282,57,United Kingdom,#1ad306,Paya Lebar,226
+283,69,Indonesia,#22488e,Latur,253
+284,116,Indonesia,#d64291,Gisborne,202
+285,30,Singapore,#c94a55,Horsham,4
+286,108,Mexico,#76eda2,La Baie,265
+287,128,Sweden,#fce294,Ceppaloni,3
+288,11,Germany,#81f952,Wanaka,273
+289,61,Vietnam,#8982e5,Katihar,46
+290,21,Philippines,#c4ea7e,Redcliffe,38
+291,51,United States,#ed960b,Lagos,94
+292,11,United Kingdom,#a353e0,Dublin,102
+293,78,Canada,#d1a1ed,Volda,165
+294,132,Chile,#76f7b9,Siverek,153
+295,71,Poland,#f92ae5,Westkapelle,292
+296,87,China,#cfe577,Okene,106
+297,58,Belgium,#f45c4e,Heilongjiang,186
+298,24,Netherlands,#59e59f,Río Verde,63
+299,52,Belgium,#ce2bb6,St. Petersburg,173
+300,47,Netherlands,#39799b,Sicuani,232
