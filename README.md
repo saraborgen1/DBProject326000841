@@ -125,6 +125,12 @@
 שחזור הנתונים בוצע באמצעות ייבוא הקובץ חזרה ל־pgAdmin.
 ![image](https://github.com/user-attachments/assets/354d48a0-f38f-4870-a55a-9f0919e2a098)
 ![image](https://github.com/user-attachments/assets/c97f5329-5dac-43e1-9546-1c5ff25a926f)
+תהליך שחזור-
+![image](https://github.com/user-attachments/assets/ba1fa45f-5e26-41e5-a2bf-bc7e71284cfe)
+![image](https://github.com/user-attachments/assets/71c65a65-1883-4085-b01d-7e2eec6db79a)
+![image](https://github.com/user-attachments/assets/424681d6-7953-4cb4-af39-1242b9fa7e58)
+
+
 
 
 
