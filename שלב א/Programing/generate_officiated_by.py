@@ -4,7 +4,7 @@ import random
 num_records = 300
 
 # Generate random GameIDs and RefereeIDs
-game_ids = random.sample(range(1, 500), num_records)  # Assuming GameID range
+game_ids = random.sample(range(101, 401), num_records)  # Assuming GameID range
 referee_ids = [random.randint(1, 300) for _ in range(num_records)]  # Assuming RefereeID range
 
 # Combine into (GameID, RefereeID) pairs
