@@ -16,6 +16,11 @@
   - [שיטה 2: GenerateData](#שיטה-2-generatedata)  
   - [שיטה 3: Python Script](#שיטה-3-python-script)  
 - [גיבוי ושחזור](#גיבוי-ושחזור)
+- [שלב ב – שאילתות ועדכונים](#שלב-ב--שאילתות-ועדכונים)
+  - [שאילתות SELECT](#שאילתות-select)
+  - [שאילתות UPDATE](#שאילתות-update)
+  - [שאילתות DELETE](#שאילתות-delete)
+
 
 ---
 
@@ -129,6 +134,33 @@
 ![image](https://github.com/user-attachments/assets/ba1fa45f-5e26-41e5-a2bf-bc7e71284cfe)
 ![image](https://github.com/user-attachments/assets/71c65a65-1883-4085-b01d-7e2eec6db79a)
 ![image](https://github.com/user-attachments/assets/424681d6-7953-4cb4-af39-1242b9fa7e58)
+
+---
+## שלב ב – שאילתות ועדכונים
+
+### שאילתות SELECT
+שאילתא 1 – שם נבחרת, כמות שחקנים ושם המאמן
+שאילתא זו מציגה לכל נבחרת את המידע הבא:
+שם הקבוצה (TeamName)
+מספר השחקנים בקבוצה (PlayerCount)
+שם המאמן (פרטי ומשפחה).
+השאילתא מבצעת חיבור (JOIN) בין הטבלאות NationalTeam, Player ו־Coach, ומקבצת (GROUP BY) לפי שם הנבחרת ושם המאמן.
+זוהי שאילתא שימושית להצגת תמונת מצב של הקבוצות, כמות השחקנים ומי מאמן אותן.
+צילום הרצה:
+![צילום מסך 2025-04-20 123832](https://github.com/user-attachments/assets/c8ab235c-8112-4365-a389-32384ed3256f) 
+צילום תוצאה:
+![image](https://github.com/user-attachments/assets/78e5cfbb-c896-4c13-a291-05427d3e1f8a)
+
+
+
+
+
+### שאילתות UPDATE
+(כאן 3 שאילתות העדכון)
+
+### שאילתות DELETE
+(כאן 3 שאילתות המחיקה)
+
 
 
 
