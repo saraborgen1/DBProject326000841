@@ -140,14 +140,18 @@
 
 ### שאילתות SELECT
 שאילתא 1 – שם נבחרת, כמות שחקנים ושם המאמן
+<br>
 שאילתא זו מציגה לכל נבחרת את המידע הבא:
 שם הקבוצה (TeamName)
 מספר השחקנים בקבוצה (PlayerCount)
 שם המאמן (פרטי ומשפחה).
 השאילתא מבצעת חיבור (JOIN) בין הטבלאות NationalTeam, Player ו־Coach, ומקבצת (GROUP BY) לפי שם הנבחרת ושם המאמן.
 זוהי שאילתא שימושית להצגת תמונת מצב של הקבוצות, כמות השחקנים ומי מאמן אותן.
+<br>
+
 צילום הרצה:
-![צילום מסך 2025-04-20 123832](https://github.com/user-attachments/assets/c8ab235c-8112-4365-a389-32384ed3256f) 
+![image](https://github.com/user-attachments/assets/2061c6e3-1e09-422e-b8a2-b542c49c3e85)
+
 צילום תוצאה:
 ![image](https://github.com/user-attachments/assets/78e5cfbb-c896-4c13-a291-05427d3e1f8a)
 
