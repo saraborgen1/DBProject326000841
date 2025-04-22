@@ -306,10 +306,14 @@
 מטרת השאילתא היא לדמות מצב שבו ניסיון מקצועי של מאמנים עולה בהתאם לפעילות בפועל בטורנירים.
 <br>
 צילום לפני העדכון:
+![image](https://github.com/user-attachments/assets/e34bdfff-3cad-4497-9e4a-8fae09cb3a8b)
+
 צילום של הרצת השאילתא:
 ![image](https://github.com/user-attachments/assets/48330c3e-1607-4ebe-bebb-7e7cb7f5b777)
 
 צילום אחרי העדכון:
+![image](https://github.com/user-attachments/assets/833fd051-f5e7-4336-b074-89311ceed7cc)
+
 <br>
 שאילתא – UPDATE 2- הפחתת גובה רנדומלית (10–15 ס"מ) לשחקנים גבוהים מ־210 ס"מ
 
