@@ -370,10 +370,14 @@
 מטרת השאילתא היא להכין את הקרקע למחיקת קבוצות לא פעילות, מבלי לפגוע בשלמות הקשרים במסד.
 <br>
 צילום לפני המחיקה:
+![image](https://github.com/user-attachments/assets/d2196f28-a7ea-4410-932b-a394493ba137)
+
 צילום של הרצת השאילתא:
 ![image](https://github.com/user-attachments/assets/c4b41f69-be29-4df3-8671-9bc7a8bf3822)
 
 צילום אחרי המחיקה:
+![image](https://github.com/user-attachments/assets/4ae27ce9-1ef9-492b-8ce2-57430d400c27)
+
 <br>
 
 שאילתא – DELETE 2-מחיקת קבוצות שאין להן אף שחקן
@@ -385,13 +389,15 @@
 מטרת השאילתא היא לנקות את מסד הנתונים מקבוצות לא פעילות או שגויות שהוזנו ללא שחקנים.
 <br>
 צילום לפני המחיקה:
+![image](https://github.com/user-attachments/assets/dcce4552-5a35-4440-a833-11dc4fc2acaf)
+
 צילום של הרצת השאילתא:
 ![image](https://github.com/user-attachments/assets/901acc36-ca92-49d4-9561-5f0001899fa0)
 
 צילום אחרי המחיקה:
-<br>
-<br>
+![image](https://github.com/user-attachments/assets/52f05856-1809-4e14-899e-d80f24431ccb)
 
+<br>
 שאילתא –DELETE 3 – מחיקת שופטים שלא שפטו אף משחק
 <br>
 שאילתא זו מוחקת מהטבלה Referee את כל השופטים שלא שפטו אפילו משחק אחד.
@@ -400,10 +406,15 @@
 מטרת השאילתא היא לנקות את המערכת משופטים לא פעילים או כאלו שהוזנו למערכת בטעות.
 <br>
 צילום לפני המחיקה:
+![image](https://github.com/user-attachments/assets/674980c0-6a22-432e-8c2f-9abfbe8ba36a)
+
+
 צילום של הרצת השאילתא:
 ![image](https://github.com/user-attachments/assets/b66612a6-1efe-4452-acdf-e5ee015c0797)
 
 צילום אחרי המחיקה:
+![image](https://github.com/user-attachments/assets/9ee88346-5ba2-47d0-8792-ca34bf46da5d)
+
 <br>
 
 
