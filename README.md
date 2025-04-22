@@ -20,7 +20,7 @@
   - [שאילתות SELECT](#שאילתות-select)
   - [שאילתות UPDATE](#שאילתות-update)
   - [שאילתות DELETE](#שאילתות-delete)
-  - [אילוצים (Constraints)](#אילוצים-constraints)
+  - [אילוצים Constraint)](#אילוצים-constraints)
 
 
 ---
@@ -435,7 +435,9 @@
 <br>
 אילוץ מסוג DEFAULT בטבלה Referee אשר מגדיר שערך ברירת המחדל של השדה ExperienceYears יהיה 1 אם לא צוין ערך בעת ההוספה.
 
+
 ![image](https://github.com/user-attachments/assets/82cf12c2-a562-4d08-a314-aa45ffefb7ab)
+
 ניסיון להכניס שופט בלי לציין ניסיון:
 
 ![image](https://github.com/user-attachments/assets/52161ee4-b18a-448b-961b-1a164411af00)
@@ -445,7 +447,9 @@
 <br>
 אילוץ מסוג NOT NULL בטבלה Player, אשר מחייב שכל שחקן יקבל ערך בשדה PlayerBirthDate, ואוסר השארת השדה ריק. המטרה- לבדוק שהשחקן בגיל המתאים לשחק.
 
+
 ![image](https://github.com/user-attachments/assets/2200a9fe-8c12-4872-a9ce-d85f3b2eab0f)
+
 
 ניסיון להזין שחקן בלי תאריך לידה:
 ![image](https://github.com/user-attachments/assets/e911ba90-9327-4555-bb9c-890033ba3c9e)
