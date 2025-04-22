@@ -126,7 +126,6 @@
 
 תהליך גיבוי הנתונים בוצע באמצעות pgAdmin ליצוא קובץ `.sql`:  
 - [שלב א/Backup/backup_22_04_2025_11-21.backup](שלב%20א/Backup/backup_22_04_2025_11-21.backup)
-
 שחזור הנתונים בוצע באמצעות ייבוא הקובץ חזרה ל־pgAdmin.
 ![image](https://github.com/user-attachments/assets/354d48a0-f38f-4870-a55a-9f0919e2a098)
 ![image](https://github.com/user-attachments/assets/c97f5329-5dac-43e1-9546-1c5ff25a926f)
