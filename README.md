@@ -20,7 +20,7 @@
   - [שאילתות SELECT](#שאילתות-select)
   - [שאילתות UPDATE](#שאילתות-update)
   - [שאילתות DELETE](#שאילתות-delete)
-  - [אילוצים Constraint)](#אילוצים-constraints)
+  - [אילוצים Constraints](#אילוצים-constraints)
 
 
 ---
