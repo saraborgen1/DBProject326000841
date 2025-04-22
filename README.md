@@ -326,7 +326,9 @@
 מטרת השאילתא היא לדמות תיקון לטעויות הקלדה שגרמו לרישום גובה גבוה מדי.
 <br>
 צילום לפני העדכון:
-![image](https://github.com/user-attachments/assets/9e09b008-ae37-4a9a-96c3-e1cd5ac57152)
+
+![צילום מסך 2025-04-22 143032](https://github.com/user-attachments/assets/f7b44aea-3429-4795-a8cc-2c5482ded2c5)
+
 
 צילום של הרצת השאילתא:
 
