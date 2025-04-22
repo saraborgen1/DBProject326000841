@@ -127,6 +127,7 @@
 
 - הקובץ שנשמר:  
   [שלב א/Backup/backup_22_04_2025_11-21.backup](שלב%20א/Backup/backup_22_04_2025_11-21.backup)
+  
 שחזור הנתונים בוצע באמצעות ייבוא הקובץ חזרה ל־pgAdmin.
 ![image](https://github.com/user-attachments/assets/354d48a0-f38f-4870-a55a-9f0919e2a098)
 ![image](https://github.com/user-attachments/assets/c97f5329-5dac-43e1-9546-1c5ff25a926f)
@@ -325,11 +326,16 @@
 מטרת השאילתא היא לדמות תיקון לטעויות הקלדה שגרמו לרישום גובה גבוה מדי.
 <br>
 צילום לפני העדכון:
+![image](https://github.com/user-attachments/assets/9e09b008-ae37-4a9a-96c3-e1cd5ac57152)
+
 צילום של הרצת השאילתא:
 
 ![image](https://github.com/user-attachments/assets/5cef799a-ddf1-4995-a467-e690c3128f72)
 
 צילום אחרי העדכון:
+![image](https://github.com/user-attachments/assets/06255c6a-27ef-4ce3-9e2e-af48edf34ed6)
+
+
 <br>
 שאילתא – UPDATE 3- עדכון עמדת שחקנים גבוהים ל־"Center"
 
@@ -341,11 +347,15 @@
 מטרת השאילתא היא ליישר קו בין נתוני השחקן לבין המציאות: שחקנים גבוהים במיוחד מתאימים לעמדת Center (סנטר), ולכן המערכת מעדכנת זאת אוטומטית.
 <br>
 צילום לפני העדכון:
+![image](https://github.com/user-attachments/assets/decb4a2e-dde5-4672-90be-b0e2b2cec399)
+
 צילום של הרצת השאילתא:
 
 ![image](https://github.com/user-attachments/assets/429b8406-0f23-42d7-89e7-7f6928b766c7)
 
 צילום אחרי העדכון:
+![image](https://github.com/user-attachments/assets/bb787249-1e0e-4f01-9115-ba01d9058e77)
+
 <br>
 
 ---
