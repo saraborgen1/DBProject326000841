@@ -425,7 +425,9 @@
 אילוץ 1- שנות ניסיון של מאמן
 <br>
 אילוץ מסוג CHECK המגביל את הערכים בשדה ExperienceYears בטבלת Coach לתחום שבין 0 ל־50. מטרת האילוץ היא למנוע הזנת ערכים שליליים או בלתי סבירים.
+
 ![image](https://github.com/user-attachments/assets/737202c5-20d8-4d42-a857-8089dc6f9dab)
+
 ניסיון להפר את האילוץ:
 ![image](https://github.com/user-attachments/assets/5055add8-3b9c-44fa-9108-9f3a718b6963)
 <br>
