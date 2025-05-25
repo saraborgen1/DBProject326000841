@@ -480,19 +480,18 @@
 1. שימור מידע קיים:
 <br>
 ![image](https://github.com/user-attachments/assets/5ce31e8f-dc7a-4eba-8ca8-d78a21526979)
-<br>
 בתחילה שיניתי את השמות של הטבלאות הקיימות לשמות גיבוי (_backup) כדי לא לאבד את הנתונים שכבר הוזנו, ולאפשר לי ליצור טבלאות חדשות עם שמות זהים אך מבנה שונה.
-2. הגדרת טבלת על player:
+3. הגדרת טבלת על player:
 <br>
 ![image](https://github.com/user-attachments/assets/1c88e87e-9ce4-4edb-8335-223cd5dc3e3a)
 <br>
 יצרתי טבלת על player שתכיל שדות כלליים הרלוונטיים לכל שחקן, ללא קשר לתחום הספורט שלו. בהמשך, טבלאות footballplayer ו־basketballplayer יורשות את המבנה הזה.
-3. הגדרת טבלאות תתי־תחומים (Inherits):
+4. הגדרת טבלאות תתי־תחומים (Inherits):
 <br>
 ![image](https://github.com/user-attachments/assets/780e7fff-2c74-4eeb-8589-ca44cf3d987e)
 <br>
 יצרתי שתי טבלאות שמרחיבות את טבלת העל – אחת לכדורגל ואחת לכדורסל – וכל אחת מהן מכילה שדות ייחודיים לספורט שלה (כמו goals, playerheight, וכו').
-4. הזנת נתונים חכמים מהגיבוי:
+5. הזנת נתונים חכמים מהגיבוי:
 <br>
 ![image](https://github.com/user-attachments/assets/5dcdc2b7-ed18-4aea-8b66-22ef0878f64c)
 <br>
@@ -502,7 +501,7 @@
 ![image](https://github.com/user-attachments/assets/44ee6d0a-7942-46dc-9955-6f897e1c57e0)
 <br>
 כאן לא הייתי צריכה לפצל שמות – כי במקור הנתונים היו כבר מופרדים.
-5. בדיקה שהתהליך הצליח:
+6. בדיקה שהתהליך הצליח:
 <br>
 ![image](https://github.com/user-attachments/assets/58f24656-5622-457f-83bb-7eefb9373280)
 <br>
