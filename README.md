@@ -426,8 +426,8 @@
 ![image](https://github.com/user-attachments/assets/9ee88346-5ba2-47d0-8792-ca34bf46da5d)
 
 <br>
----
 
+---
 ### אילוצים (Constraints)
 
 אילוץ 1- שנות ניסיון של מאמן
