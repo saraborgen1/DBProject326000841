@@ -466,8 +466,10 @@
 ## שלב ג – אינטגרציה ומבטים
 
 ## תרשים ERD
+phase3/ERDAndDSTFiles/connectedERD.png
 
 ## תרשים DSD
+phase3/ERDAndDSTFiles/connectedDSD.png
 
 ## החלטות אינטגרציה
 
