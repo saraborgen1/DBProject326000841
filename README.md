@@ -475,11 +475,13 @@
 החלטה ראשונה- לאחד בין שחקני כדורסל לכדורגל ע"י ירושה
 <br>
 ביצוע-
+<br>
+
 בשלב הזה ביצעתי אינטגרציה בין טבלאות שחקנים שהיו מופרדות לפי תחום (כדורסל וכדורגל), במטרה ליצור היררכיה מסודרת בין שחקן כללי (player) לבין שחקני תתי-התחומים (footballplayer, basketballplayer). הנה מה שעשיתי:
 
 1. שימור מידע קיים:
-ALTER TABLE player RENAME TO player_backup;
-ALTER TABLE players RENAME TO players_backup;
+![image](https://github.com/user-attachments/assets/5ce31e8f-dc7a-4eba-8ca8-d78a21526979)
+
 בתחילה שיניתי את השמות של הטבלאות הקיימות לשמות גיבוי (_backup) כדי לא לאבד את הנתונים שכבר הוזנו, ולאפשר לי ליצור טבלאות חדשות עם שמות זהים אך מבנה שונה.
 
 2. הגדרת טבלת על player:
