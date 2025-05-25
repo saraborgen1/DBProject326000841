@@ -472,6 +472,56 @@
 ![תרשים DSD](phase3/ERDAndDSTFiles/connectedDSD.png)
 
 ## החלטות אינטגרציה
+החלטה ראשונה- לאחד בין שחקני כדורסל לכדורגל ע"י ירושה
+<br>
+ביצוע-
+בשלב הזה ביצעתי אינטגרציה בין טבלאות שחקנים שהיו מופרדות לפי תחום (כדורסל וכדורגל), במטרה ליצור היררכיה מסודרת בין שחקן כללי (player) לבין שחקני תתי-התחומים (footballplayer, basketballplayer). הנה מה שעשיתי:
+
+1. שימור מידע קיים:
+ALTER TABLE player RENAME TO player_backup;
+ALTER TABLE players RENAME TO players_backup;
+בתחילה שיניתי את השמות של הטבלאות הקיימות לשמות גיבוי (_backup) כדי לא לאבד את הנתונים שכבר הוזנו, ולאפשר לי ליצור טבלאות חדשות עם שמות זהים אך מבנה שונה.
+
+2. הגדרת טבלת על player:
+CREATE TABLE IF NOT EXISTS player (
+  playerid INT PRIMARY KEY,
+  playerfirstname VARCHAR(50) NOT NULL,
+  playerlastname VARCHAR(50) NOT NULL,
+  playerbirthdate DATE NOT NULL,
+  playerposition VARCHAR(50) NOT NULL,
+  teamid INT NOT NULL
+);
+יצרתי טבלת על player שתכיל שדות כלליים הרלוונטיים לכל שחקן, ללא קשר לתחום הספורט שלו. בהמשך, טבלאות footballplayer ו־basketballplayer יורשות את המבנה הזה.
+
+3. הגדרת טבלאות תתי־תחומים (Inherits):
+CREATE TABLE footballplayer (... INHERITS (player));
+CREATE TABLE basketballplayer (... INHERITS (player));
+יצרתי שתי טבלאות שמרחיבות את טבלת העל – אחת לכדורגל ואחת לכדורסל – וכל אחת מהן מכילה שדות ייחודיים לספורט שלה (כמו goals, playerheight, וכו').
+
+4. הזנת נתונים חכמים מהגיבוי:
+
+
+INSERT INTO footballplayer (...)
+SELECT
+  player_id,
+  split_part(name, ' ', 1), -- שם פרטי
+  split_part(name, ' ', 2), -- שם משפחה
+  ...
+FROM players_backup;
+הכנסתי לטבלת שחקני הכדורגל נתונים מהגיבוי הישן players_backup, שכלל עמודת name מאוחדת – ולכן השתמשתי בפונקציית split_part כדי לפצל את השם המלא לשם פרטי ושם משפחה.
+
+לעומת זאת:
+
+INSERT INTO basketballplayer (...)
+SELECT ...
+FROM player_backup;
+כאן לא הייתי צריכה לפצל שמות – כי במקור הנתונים היו כבר מופרדים.
+
+5. בדיקה שהתהליך הצליח:
+
+
+SELECT COUNT(*) FROM player;
+לבסוף ווידאתי שהטבלה player מכילה נתונים – מאחר והיא טבלת על שנוצרה כ־inherited, היא מציגה גם את כל הנתונים שנכנסו לטבלאות הבנות.
 
 ### מבט 1 – שחקני כדורסל לפי נבחרת
 
