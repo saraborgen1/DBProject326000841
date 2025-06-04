@@ -1,0 +1,794 @@
+NOTICE:  Team 301 ranking updated to 57
+NOTICE:  Team 401 not updated, avg_points <NULL>.
+NOTICE:  Team 402 not updated, avg_points <NULL>.
+NOTICE:  Team 404 not updated, avg_points <NULL>.
+NOTICE:  Team 406 not updated, avg_points <NULL>.
+NOTICE:  Team 8 not updated, avg_points 5.0000000000000000.
+NOTICE:  Team 409 not updated, avg_points <NULL>.
+NOTICE:  Team 410 not updated, avg_points <NULL>.
+NOTICE:  Team 412 not updated, avg_points <NULL>.
+NOTICE:  Team 414 not updated, avg_points <NULL>.
+NOTICE:  Team 16 not updated, avg_points 5.0000000000000000.
+NOTICE:  Team 417 not updated, avg_points <NULL>.
+NOTICE:  Team 18 not updated, avg_points 4.0000000000000000.
+NOTICE:  Team 421 not updated, avg_points <NULL>.
+NOTICE:  Team 422 not updated, avg_points <NULL>.
+NOTICE:  Team 423 not updated, avg_points <NULL>.
+NOTICE:  Team 24 not updated, avg_points 3.9090909090909091.
+NOTICE:  Team 26 not updated, avg_points 3.8571428571428571.
+NOTICE:  Team 427 not updated, avg_points <NULL>.
+NOTICE:  Team 428 not updated, avg_points <NULL>.
+NOTICE:  Team 32 not updated, avg_points 3.3333333333333333.
+NOTICE:  Team 434 not updated, avg_points <NULL>.
+NOTICE:  Team 440 not updated, avg_points <NULL>.
+NOTICE:  Team 443 not updated, avg_points <NULL>.
+NOTICE:  Team 445 not updated, avg_points <NULL>.
+NOTICE:  Team 447 not updated, avg_points <NULL>.
+NOTICE:  Team 302 ranking updated to 5
+NOTICE:  Team 304 ranking updated to 49
+NOTICE:  Team 305 ranking updated to 0
+NOTICE:  Team 309 ranking updated to 4
+NOTICE:  Team 310 ranking updated to 42
+NOTICE:  Team 311 ranking updated to 43
+NOTICE:  Team 312 ranking updated to 68
+NOTICE:  Team 316 ranking updated to 80
+NOTICE:  Team 319 ranking updated to 59
+NOTICE:  Team 321 ranking updated to 14
+NOTICE:  Team 323 ranking updated to 1
+NOTICE:  Team 324 ranking updated to 57
+NOTICE:  Team 328 ranking updated to 65
+NOTICE:  Team 331 ranking updated to 20
+NOTICE:  Team 335 ranking updated to 44
+NOTICE:  Team 337 ranking updated to 58
+NOTICE:  Team 338 ranking updated to 10
+NOTICE:  Team 340 ranking updated to 15
+NOTICE:  Team 342 ranking updated to 64
+NOTICE:  Team 344 ranking updated to 43
+NOTICE:  Team 348 ranking updated to 32
+NOTICE:  Team 349 ranking updated to 39
+NOTICE:  Team 352 ranking updated to 50
+NOTICE:  Team 356 ranking updated to 51
+NOTICE:  Team 358 ranking updated to 61
+NOTICE:  Team 360 ranking updated to 51
+NOTICE:  Team 362 ranking updated to 0
+NOTICE:  Team 365 ranking updated to 51
+NOTICE:  Team 367 ranking updated to 0
+NOTICE:  Team 368 ranking updated to 34
+NOTICE:  Team 369 ranking updated to 0
+NOTICE:  Team 370 ranking updated to 56
+NOTICE:  Team 372 ranking updated to 25
+NOTICE:  Team 375 ranking updated to 10
+NOTICE:  Team 376 ranking updated to 21
+NOTICE:  Team 378 ranking updated to 64
+NOTICE:  Team 379 ranking updated to 0
+NOTICE:  Team 381 ranking updated to 37
+NOTICE:  Team 382 ranking updated to 39
+NOTICE:  Team 388 ranking updated to 78
+NOTICE:  Team 389 ranking updated to 60
+NOTICE:  Team 392 ranking updated to 62
+NOTICE:  Team 393 ranking updated to 2
+NOTICE:  Team 72 ranking updated to 31
+NOTICE:  Team 140 ranking updated to 0
+NOTICE:  Team 21 ranking updated to 37
+NOTICE:  Team 170 ranking updated to 0
+NOTICE:  Team 6 ranking updated to 51
+NOTICE:  Team 154 ranking updated to 17
+NOTICE:  Team 289 ranking updated to 46
+NOTICE:  Team 7 ranking updated to 0
+NOTICE:  Team 9 ranking updated to 39
+NOTICE:  Team 240 ranking updated to 28
+NOTICE:  Team 118 ranking updated to 70
+NOTICE:  Team 101 ranking updated to 49
+NOTICE:  Team 159 ranking updated to 71
+NOTICE:  Team 134 ranking updated to 70
+NOTICE:  Team 136 ranking updated to 62
+NOTICE:  Team 263 ranking updated to 0
+NOTICE:  Team 102 ranking updated to 33
+NOTICE:  Team 2 ranking updated to 0
+NOTICE:  Team 10 ranking updated to 19
+NOTICE:  Team 128 ranking updated to 59
+NOTICE:  Team 214 ranking updated to 3
+NOTICE:  Team 92 ranking updated to 60
+NOTICE:  Team 258 ranking updated to 10
+NOTICE:  Team 250 ranking updated to 55
+NOTICE:  Team 22 ranking updated to 31
+NOTICE:  Team 165 ranking updated to 0
+NOTICE:  Team 139 ranking updated to 0
+NOTICE:  Team 107 ranking updated to 18
+NOTICE:  Team 77 ranking updated to 0
+NOTICE:  Team 64 ranking updated to 25
+NOTICE:  Team 282 ranking updated to 16
+NOTICE:  Team 43 ranking updated to 64
+NOTICE:  Team 12 ranking updated to 65
+NOTICE:  Team 14 ranking updated to 18
+NOTICE:  Team 169 ranking updated to 76
+NOTICE:  Team 290 ranking updated to 1
+NOTICE:  Team 242 ranking updated to 38
+NOTICE:  Team 104 ranking updated to 24
+NOTICE:  Team 211 ranking updated to 0
+NOTICE:  Team 248 ranking updated to 0
+NOTICE:  Team 106 ranking updated to 35
+NOTICE:  Team 178 ranking updated to 37
+NOTICE:  Team 269 ranking updated to 10
+NOTICE:  Team 135 ranking updated to 0
+NOTICE:  Team 66 ranking updated to 67
+NOTICE:  Team 121 ranking updated to 0
+NOTICE:  Team 225 ranking updated to 30
+NOTICE:  Team 246 ranking updated to 69
+NOTICE:  Team 288 ranking updated to 22
+NOTICE:  Team 40 ranking updated to 8
+NOTICE:  Team 45 ranking updated to 37
+NOTICE:  Team 280 ranking updated to 31
+NOTICE:  Team 17 ranking updated to 62
+NOTICE:  Team 47 ranking updated to 49
+NOTICE:  Team 217 ranking updated to 25
+NOTICE:  Team 292 ranking updated to 46
+NOTICE:  Team 210 ranking updated to 0
+NOTICE:  Team 27 ranking updated to 27
+NOTICE:  Team 232 ranking updated to 24
+NOTICE:  Team 58 ranking updated to 67
+NOTICE:  Team 60 ranking updated to 11
+NOTICE:  Team 62 ranking updated to 16
+NOTICE:  Team 69 ranking updated to 31
+NOTICE:  Team 198 ranking updated to 24
+NOTICE:  Team 76 ranking updated to 72
+NOTICE:  Team 90 ranking updated to 76
+NOTICE:  Team 68 ranking updated to 0
+NOTICE:  Team 98 ranking updated to 12
+NOTICE:  Team 222 ranking updated to 33
+NOTICE:  Team 23 ranking updated to 43
+NOTICE:  Team 173 ranking updated to 47
+NOTICE:  Team 103 ranking updated to 8
+NOTICE:  Team 244 ranking updated to 0
+NOTICE:  Team 109 ranking updated to 68
+NOTICE:  Team 195 ranking updated to 0
+NOTICE:  Team 117 ranking updated to 0
+NOTICE:  Team 125 ranking updated to 62
+NOTICE:  Team 131 ranking updated to 0
+NOTICE:  Team 254 ranking updated to 43
+NOTICE:  Team 141 ranking updated to 61
+NOTICE:  Team 142 ranking updated to 73
+NOTICE:  Team 78 ranking updated to 77
+NOTICE:  Team 279 ranking updated to 0
+NOTICE:  Team 28 ranking updated to 0
+NOTICE:  Team 245 ranking updated to 71
+NOTICE:  Team 151 ranking updated to 57
+NOTICE:  Team 152 ranking updated to 0
+NOTICE:  Team 155 ranking updated to 0
+NOTICE:  Team 161 ranking updated to 42
+NOTICE:  Team 162 ranking updated to 71
+NOTICE:  Team 168 ranking updated to 8
+NOTICE:  Team 171 ranking updated to 32
+NOTICE:  Team 201 ranking updated to 0
+NOTICE:  Team 183 ranking updated to 63
+NOTICE:  Team 194 ranking updated to 1
+NOTICE:  Team 196 ranking updated to 54
+NOTICE:  Team 95 ranking updated to 0
+NOTICE:  Team 197 ranking updated to 67
+NOTICE:  Team 112 ranking updated to 32
+NOTICE:  Team 143 ranking updated to 0
+NOTICE:  Team 208 ranking updated to 49
+NOTICE:  Team 209 ranking updated to 62
+NOTICE:  Team 213 ranking updated to 35
+NOTICE:  Team 215 ranking updated to 74
+NOTICE:  Team 285 ranking updated to 52
+NOTICE:  Team 218 ranking updated to 17
+NOTICE:  Team 34 ranking updated to 54
+NOTICE:  Team 86 ranking updated to 2
+NOTICE:  Team 230 ranking updated to 69
+NOTICE:  Team 228 ranking updated to 53
+NOTICE:  Team 231 ranking updated to 13
+NOTICE:  Team 53 ranking updated to 57
+NOTICE:  Team 74 ranking updated to 56
+NOTICE:  Team 153 ranking updated to 77
+NOTICE:  Team 126 ranking updated to 58
+NOTICE:  Team 237 ranking updated to 12
+NOTICE:  Team 239 ranking updated to 0
+NOTICE:  Team 229 ranking updated to 70
+NOTICE:  Team 255 ranking updated to 58
+NOTICE:  Team 4 ranking updated to 79
+NOTICE:  Team 297 ranking updated to 21
+NOTICE:  Team 264 ranking updated to 5
+NOTICE:  Team 266 ranking updated to 62
+NOTICE:  Team 267 ranking updated to 70
+NOTICE:  Team 270 ranking updated to 0
+NOTICE:  Team 157 ranking updated to 8
+NOTICE:  Team 167 ranking updated to 7
+NOTICE:  Team 226 ranking updated to 32
+NOTICE:  Team 276 ranking updated to 64
+NOTICE:  Team 286 ranking updated to 38
+NOTICE:  Team 291 ranking updated to 17
+NOTICE:  Team 298 ranking updated to 70
+NOTICE:  Team 3 ranking updated to 0
+NOTICE:  Team 5 ranking updated to 0
+NOTICE:  Team 11 ranking updated to 0
+NOTICE:  Team 13 ranking updated to 0
+NOTICE:  Team 15 ranking updated to 0
+NOTICE:  Team 19 ranking updated to 0
+NOTICE:  Team 20 ranking updated to 0
+NOTICE:  Team 25 ranking updated to 5
+NOTICE:  Team 29 ranking updated to 9
+NOTICE:  Team 30 ranking updated to 10
+NOTICE:  Team 31 ranking updated to 11
+NOTICE:  Team 33 ranking updated to 13
+NOTICE:  Team 35 ranking updated to 15
+NOTICE:  Team 36 ranking updated to 16
+NOTICE:  Team 37 ranking updated to 17
+NOTICE:  Team 38 ranking updated to 18
+NOTICE:  Team 39 ranking updated to 19
+NOTICE:  Team 41 ranking updated to 21
+NOTICE:  Team 42 ranking updated to 22
+NOTICE:  Team 44 ranking updated to 24
+NOTICE:  Team 46 ranking updated to 26
+NOTICE:  Team 48 ranking updated to 28
+NOTICE:  Team 1 ranking updated to 0
+NOTICE:  Games for player Callie Nieves (ID: 1):
+NOTICE:  Game ID: 176, Date: 2024-12-22, Location: Klatovy, Sport: basketball
+NOTICE:  Game ID: 79, Date: 2024-05-13, Location: Sierpc, Sport: basketball
+NOTICE:  Game ID: 389, Date: 2024-01-08, Location: Port Ralphview, Sport: basketball
+NOTICE:  Game ID: 95, Date: 2025-01-01, Location: Daireaux, Sport: basketball
+NOTICE:  Game ID: 28, Date: 2023-01-07, Location: Esquel, Sport: basketball
+NOTICE:  Game ID: 364, Date: 2023-08-09, Location: North Chelsea, Sport: basketball
+NOTICE:  Game ID: 42, Date: 2024-06-10, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 184, Date: 2023-01-06, Location: Yasnyy, Sport: basketball
+NOTICE:  Game ID: 23, Date: 2024-12-17, Location: Santo Niño, Sport: basketball
+NOTICE:  Game ID: 292, Date: 2022-05-12, Location: Carvalhinho, Sport: basketball
+NOTICE:  Game ID: 1, Date: 2024-06-09, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 208, Date: 2023-11-10, Location: Sundbyberg, Sport: basketball
+NOTICE:  Game ID: 341, Date: 2024-03-18, Location: South James, Sport: basketball
+NOTICE:  Game ID: 249, Date: 2024-05-02, Location: Sąspów, Sport: basketball
+NOTICE:  Game ID: 48, Date: 2025-03-06, Location: Peraía, Sport: basketball
+NOTICE:  Game ID: 332, Date: 2024-02-13, Location: East Aprilfort, Sport: basketball
+NOTICE:  Game ID: 167, Date: 2024-12-06, Location: Abaca, Sport: basketball
+NOTICE:  Game ID: 362, Date: 2024-01-02, Location: Ryanbury, Sport: basketball
+NOTICE:  Game ID: 280, Date: 2024-03-08, Location: Labin, Sport: basketball
+NOTICE:  Game ID: 351, Date: 2024-01-23, Location: South Tammie, Sport: basketball
+NOTICE:  Game ID: 247, Date: 2024-06-02, Location: Kuloy, Sport: basketball
+NOTICE:  Game ID: 174, Date: 2022-12-21, Location: Huadian, Sport: basketball
+NOTICE:  Game ID: 44, Date: 2024-06-10, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 385, Date: 2024-04-07, Location: Juliemouth, Sport: basketball
+NOTICE:  Game ID: 400, Date: 2025-01-05, Location: Gilbertview, Sport: basketball
+NOTICE:  Game ID: 305, Date: 2024-07-12, Location: Port Alexandra, Sport: basketball
+NOTICE:  Game ID: 107, Date: 2022-06-08, Location: Sydney, Sport: basketball
+NOTICE:  Game ID: 37, Date: 2024-06-09, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 129, Date: 2024-06-15, Location: San Nicolas, Sport: basketball
+NOTICE:  Game ID: 357, Date: 2024-01-19, Location: Courtneyfort, Sport: basketball
+NOTICE:  Game ID: 274, Date: 2025-01-12, Location: Al Ya‘rubīyah, Sport: basketball
+NOTICE:  Game ID: 173, Date: 2024-05-07, Location: Jankomir, Sport: basketball
+NOTICE:  Game ID: 206, Date: 2024-10-20, Location: Leuwayang, Sport: basketball
+NOTICE:  Game ID: 166, Date: 2024-09-14, Location: Duwakbuter, Sport: basketball
+NOTICE:  Game ID: 151, Date: 2023-12-27, Location: Tuatuka, Sport: basketball
+NOTICE:  Game ID: 293, Date: 2024-10-15, Location: Zaraza, Sport: basketball
+NOTICE:  Game ID: 92, Date: 2023-11-04, Location: Xiangba, Sport: basketball
+NOTICE:  Game ID: 82, Date: 2025-01-16, Location: Xihe, Sport: basketball
+NOTICE:  Game ID: 49, Date: 2024-06-16, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 234, Date: 2022-09-02, Location: Rafael Perazza, Sport: basketball
+NOTICE:  Game ID: 225, Date: 2024-07-23, Location: Ōmura, Sport: basketball
+NOTICE:  Game ID: 210, Date: 2023-10-23, Location: Spasskoye, Sport: basketball
+NOTICE:  Game ID: 33, Date: 2024-06-09, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 207, Date: 2025-03-12, Location: Novo Horizonte, Sport: basketball
+NOTICE:  Game ID: 142, Date: 2023-05-05, Location: Kovdor, Sport: basketball
+NOTICE:  Game ID: 168, Date: 2023-11-24, Location: Ning’er, Sport: basketball
+NOTICE:  Game ID: 58, Date: 2022-08-26, Location: Camp Ithier, Sport: basketball
+NOTICE:  Game ID: 103, Date: 2024-12-17, Location: Znojmo, Sport: basketball
+NOTICE:  Game ID: 28, Date: 2024-06-06, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 231, Date: 2023-09-13, Location: Abuja, Sport: basketball
+NOTICE:  Game ID: 116, Date: 2023-11-20, Location: Fairview, Sport: basketball
+NOTICE:  Game ID: 21, Date: 2024-11-22, Location: Libušín, Sport: basketball
+NOTICE:  Game ID: 46, Date: 2024-06-02, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 52, Date: 2024-06-17, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 26, Date: 2024-06-13, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 228, Date: 2024-05-29, Location: Yuhuangding, Sport: basketball
+NOTICE:  Game ID: 86, Date: 2023-03-07, Location: Afonsoeiro, Sport: basketball
+NOTICE:  Game ID: 310, Date: 2023-05-27, Location: North Ricky, Sport: basketball
+NOTICE:  Game ID: 211, Date: 2024-07-21, Location: Yarmolyntsi, Sport: basketball
+NOTICE:  Game ID: 238, Date: 2022-12-12, Location: Zhankhoteko, Sport: basketball
+NOTICE:  Game ID: 201, Date: 2022-10-31, Location: Adelaide, Sport: basketball
+NOTICE:  Game ID: 318, Date: 2024-09-14, Location: Hollyview, Sport: basketball
+NOTICE:  Game ID: 294, Date: 2024-06-20, Location: San Diego, Sport: basketball
+NOTICE:  Game ID: 397, Date: 2023-06-13, Location: New Derek, Sport: basketball
+NOTICE:  Game ID: 262, Date: 2024-01-24, Location: Semalang, Sport: basketball
+NOTICE:  Game ID: 371, Date: 2025-01-14, Location: Jamesfurt, Sport: basketball
+NOTICE:  Game ID: 358, Date: 2025-02-04, Location: New Caseyport, Sport: basketball
+NOTICE:  Game ID: 77, Date: 2025-03-19, Location: Bunol, Sport: basketball
+NOTICE:  Game ID: 70, Date: 2022-06-22, Location: Velingrad, Sport: basketball
+NOTICE:  Game ID: 296, Date: 2024-08-11, Location: Vargas, Sport: basketball
+NOTICE:  Game ID: 328, Date: 2024-09-18, Location: Robertsfurt, Sport: basketball
+NOTICE:  Game ID: 171, Date: 2022-08-27, Location: Kalkara, Sport: basketball
+NOTICE:  Game ID: 329, Date: 2024-12-20, Location: South Christopherview, Sport: basketball
+NOTICE:  Game ID: 361, Date: 2023-04-21, Location: West Lauraport, Sport: basketball
+NOTICE:  Game ID: 331, Date: 2024-12-29, Location: Lake Mollymouth, Sport: basketball
+NOTICE:  Game ID: 339, Date: 2025-03-23, Location: Williamview, Sport: basketball
+NOTICE:  Game ID: 21, Date: 2024-06-09, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 227, Date: 2023-08-04, Location: Mizoch, Sport: basketball
+NOTICE:  Game ID: 223, Date: 2024-10-01, Location: Marseille, Sport: basketball
+NOTICE:  Game ID: 268, Date: 2024-09-04, Location: Cát Bà, Sport: basketball
+NOTICE:  Game ID: 162, Date: 2022-08-13, Location: Fenghuang, Sport: basketball
+NOTICE:  Game ID: 390, Date: 2024-05-19, Location: South Miguelview, Sport: basketball
+NOTICE:  Game ID: 378, Date: 2024-11-05, Location: Lake Colton, Sport: basketball
+NOTICE:  Game ID: 94, Date: 2023-11-19, Location: Mahong, Sport: basketball
+NOTICE:  Game ID: 100, Date: 2022-04-30, Location: Le Havre, Sport: basketball
+NOTICE:  Game ID: 320, Date: 2025-02-17, Location: Navarroview, Sport: basketball
+NOTICE:  Game ID: 253, Date: 2022-09-13, Location: Jinshiqiao, Sport: basketball
+NOTICE:  Game ID: 52, Date: 2024-10-29, Location: Fergana, Sport: basketball
+NOTICE:  Game ID: 161, Date: 2022-12-30, Location: Dordrecht, Sport: basketball
+NOTICE:  Game ID: 183, Date: 2023-08-13, Location: Żyraków, Sport: basketball
+NOTICE:  Game ID: 9, Date: 2022-04-03, Location: Kotawaikabubak, Sport: basketball
+NOTICE:  Game ID: 6, Date: 2024-06-06, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 12, Date: 2022-11-20, Location: Idi Rayeuk, Sport: basketball
+NOTICE:  Game ID: 336, Date: 2024-10-01, Location: West Andrea, Sport: basketball
+NOTICE:  Game ID: 314, Date: 2024-07-27, Location: South Danny, Sport: basketball
+NOTICE:  Game ID: 153, Date: 2023-03-18, Location: Pueblo Nuevo, Sport: basketball
+NOTICE:  Game ID: 178, Date: 2024-12-05, Location: Kamalasai, Sport: basketball
+NOTICE:  Game ID: 301, Date: 2023-10-12, Location: Wilsonland, Sport: basketball
+NOTICE:  Game ID: 315, Date: 2023-09-20, Location: West Margaret, Sport: basketball
+NOTICE:  Game ID: 381, Date: 2025-03-05, Location: Markchester, Sport: basketball
+NOTICE:  Game ID: 122, Date: 2023-08-18, Location: Demba, Sport: basketball
+NOTICE:  Game ID: 209, Date: 2023-07-25, Location: Krzeszów, Sport: basketball
+NOTICE:  Game ID: 7, Date: 2024-06-08, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 13, Date: 2024-06-04, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 99, Date: 2022-12-29, Location: Fendou, Sport: basketball
+NOTICE:  Game ID: 163, Date: 2022-06-06, Location: Gasri, Sport: basketball
+NOTICE:  Game ID: 72, Date: 2023-12-15, Location: Rychvald, Sport: basketball
+NOTICE:  Game ID: 241, Date: 2023-02-06, Location: Kawanoechō, Sport: basketball
+NOTICE:  Game ID: 38, Date: 2024-06-14, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 189, Date: 2025-01-30, Location: Donghe, Sport: basketball
+NOTICE:  Game ID: 124, Date: 2022-06-07, Location: Kawm Ḩamādah, Sport: basketball
+NOTICE:  Game ID: 322, Date: 2024-06-28, Location: Port Emilyview, Sport: basketball
+NOTICE:  Game ID: 287, Date: 2024-08-07, Location: Mobile, Sport: basketball
+NOTICE:  Game ID: 64, Date: 2022-10-03, Location: An Châu, Sport: basketball
+NOTICE:  Game ID: 384, Date: 2025-01-03, Location: West Robin, Sport: basketball
+NOTICE:  Game ID: 56, Date: 2024-06-15, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 11, Date: 2024-06-08, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 154, Date: 2022-09-11, Location: Mabuttal East, Sport: basketball
+NOTICE:  Game ID: 88, Date: 2024-11-28, Location: Wantan, Sport: basketball
+NOTICE:  Game ID: 24, Date: 2024-06-14, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 290, Date: 2023-10-20, Location: Loncoche, Sport: basketball
+NOTICE:  Game ID: 84, Date: 2023-12-06, Location: San Lorenzo, Sport: basketball
+NOTICE:  Game ID: 118, Date: 2024-01-03, Location: ‘Uzeir, Sport: basketball
+NOTICE:  Game ID: 34, Date: 2023-10-01, Location: Nalinggou, Sport: basketball
+NOTICE:  Game ID: 114, Date: 2024-01-16, Location: Areeiro, Sport: basketball
+NOTICE:  Game ID: 10, Date: 2023-10-10, Location: El Quiteño, Sport: basketball
+NOTICE:  Game ID: 113, Date: 2022-04-17, Location: Nāḩiyat Baḩār, Sport: basketball
+NOTICE:  Game ID: 367, Date: 2024-03-20, Location: Elizabethmouth, Sport: basketball
+NOTICE:  Game ID: 83, Date: 2022-05-15, Location: San José, Sport: basketball
+NOTICE:  Game ID: 297, Date: 2024-08-18, Location: Getazat, Sport: basketball
+NOTICE:  Game ID: 196, Date: 2024-07-21, Location: Borås, Sport: basketball
+NOTICE:  Game ID: 97, Date: 2025-01-15, Location: Fort Wayne, Sport: basketball
+NOTICE:  Game ID: 334, Date: 2023-10-23, Location: West Samuel, Sport: basketball
+NOTICE:  Game ID: 180, Date: 2025-01-10, Location: Joaquín V. González, Sport: basketball
+NOTICE:  Game ID: 359, Date: 2023-09-22, Location: South Tiffanyville, Sport: basketball
+NOTICE:  Game ID: 199, Date: 2024-09-11, Location: Kurunegala, Sport: basketball
+NOTICE:  Game ID: 34, Date: 2024-06-12, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 140, Date: 2022-12-23, Location: Xinhua, Sport: basketball
+NOTICE:  Game ID: 46, Date: 2024-06-10, Location: Kondoa, Sport: basketball
+NOTICE:  Game ID: 382, Date: 2023-08-13, Location: East Kristin, Sport: basketball
+NOTICE:  Game ID: 393, Date: 2025-02-13, Location: Rosebury, Sport: basketball
+NOTICE:  Game ID: 323, Date: 2024-06-19, Location: Port Katelynfort, Sport: basketball
+NOTICE:  Game ID: 111, Date: 2025-02-03, Location: Paulba, Sport: basketball
+NOTICE:  Game ID: 300, Date: 2022-12-28, Location: Liurenba, Sport: basketball
+NOTICE:  Game ID: 20, Date: 2024-06-07, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 352, Date: 2023-07-06, Location: Mollymouth, Sport: basketball
+NOTICE:  Game ID: 347, Date: 2024-11-11, Location: Gibsonmouth, Sport: basketball
+NOTICE:  Game ID: 212, Date: 2022-06-06, Location: Banī Khaddāsh, Sport: basketball
+NOTICE:  Game ID: 337, Date: 2024-05-31, Location: Davisville, Sport: basketball
+NOTICE:  Game ID: 1, Date: 2024-05-20, Location: Särö, Sport: basketball
+NOTICE:  Game ID: 319, Date: 2024-04-21, Location: Kimton, Sport: basketball
+NOTICE:  Game ID: 25, Date: 2022-04-20, Location: Abeokuta, Sport: basketball
+NOTICE:  Game ID: 98, Date: 2025-01-04, Location: Zhongguanyi, Sport: basketball
+NOTICE:  Game ID: 244, Date: 2024-06-03, Location: Mojosari, Sport: basketball
+NOTICE:  Game ID: 190, Date: 2022-09-25, Location: Dorval, Sport: basketball
+NOTICE:  Game ID: 224, Date: 2023-06-22, Location: Šentilj v Slov. Goricah, Sport: basketball
+NOTICE:  Game ID: 396, Date: 2023-04-27, Location: Wendyville, Sport: basketball
+NOTICE:  Game ID: 372, Date: 2025-01-20, Location: Rodriguezfurt, Sport: basketball
+NOTICE:  Game ID: 375, Date: 2025-01-29, Location: New Julieport, Sport: basketball
+NOTICE:  Game ID: 242, Date: 2025-03-26, Location: Halmstad, Sport: basketball
+NOTICE:  Game ID: 298, Date: 2022-07-06, Location: Jangdam, Sport: basketball
+NOTICE:  Game ID: 49, Date: 2023-04-14, Location: Shouxihu, Sport: basketball
+NOTICE:  Game ID: 61, Date: 2023-05-27, Location: Patpata Segundo, Sport: basketball
+NOTICE:  Game ID: 309, Date: 2023-10-21, Location: East Johnside, Sport: basketball
+NOTICE:  Game ID: 4, Date: 2024-07-02, Location: Mỹ Xuyên, Sport: basketball
+NOTICE:  Game ID: 251, Date: 2023-03-06, Location: Skópelos, Sport: basketball
+NOTICE:  Game ID: 16, Date: 2024-06-14, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 259, Date: 2025-02-19, Location: Chagou, Sport: basketball
+NOTICE:  Game ID: 356, Date: 2024-08-15, Location: Port Markside, Sport: basketball
+NOTICE:  Game ID: 366, Date: 2023-07-19, Location: South Dana, Sport: basketball
+NOTICE:  Game ID: 51, Date: 2022-06-05, Location: Zmiyëvka, Sport: basketball
+NOTICE:  Game ID: 214, Date: 2023-05-19, Location: Krajan Dukuhseti, Sport: basketball
+NOTICE:  Game ID: 31, Date: 2023-05-02, Location: Hengli, Sport: basketball
+NOTICE:  Game ID: 6, Date: 2022-05-22, Location: Hoani, Sport: basketball
+NOTICE:  Game ID: 4, Date: 2024-06-08, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 143, Date: 2023-12-28, Location: Chencun, Sport: basketball
+NOTICE:  Game ID: 44, Date: 2024-04-20, Location: Corupá, Sport: basketball
+NOTICE:  Game ID: 51, Date: 2024-06-15, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 112, Date: 2024-05-04, Location: Piątnica, Sport: basketball
+NOTICE:  Game ID: 14, Date: 2024-05-06, Location: Pitumarca, Sport: basketball
+NOTICE:  Game ID: 213, Date: 2024-11-22, Location: Oliveira do Conde, Sport: basketball
+NOTICE:  Game ID: 29, Date: 2023-03-02, Location: Lelystad, Sport: basketball
+NOTICE:  Game ID: 18, Date: 2024-01-05, Location: Årjäng, Sport: basketball
+NOTICE:  Game ID: 383, Date: 2025-02-07, Location: Alyssaview, Sport: basketball
+NOTICE:  Game ID: 17, Date: 2023-03-30, Location: Campana, Sport: basketball
+NOTICE:  Game ID: 370, Date: 2023-11-17, Location: Vaughnmouth, Sport: basketball
+NOTICE:  Game ID: 54, Date: 2024-06-14, Location: Zavoronezhskoye, Sport: basketball
+NOTICE:  Game ID: 192, Date: 2023-02-05, Location: Maki, Sport: basketball
+NOTICE:  Game ID: 373, Date: 2024-06-16, Location: Baileyport, Sport: basketball
+NOTICE:  Game ID: 89, Date: 2024-10-08, Location: Kalāt, Sport: basketball
+NOTICE:  Game ID: 194, Date: 2022-11-13, Location: Odrinhas, Sport: basketball
+NOTICE:  Game ID: 35, Date: 2024-10-13, Location: Novorossiysk, Sport: basketball
+NOTICE:  Game ID: 267, Date: 2023-01-19, Location: Paraipaba, Sport: basketball
+NOTICE:  Game ID: 57, Date: 2025-01-30, Location: Zhangping, Sport: basketball
+NOTICE:  Game ID: 60, Date: 2024-07-08, Location: Xinye, Sport: basketball
+NOTICE:  Game ID: 109, Date: 2023-11-21, Location: Lyuban’, Sport: basketball
+NOTICE:  Game ID: 50, Date: 2024-06-16, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 63, Date: 2024-06-25, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 115, Date: 2023-11-17, Location: Heemskerk, Sport: basketball
+NOTICE:  Game ID: 80, Date: 2024-12-11, Location: Dallas, Sport: basketball
+NOTICE:  Game ID: 43, Date: 2024-01-17, Location: Fatufeto, Sport: basketball
+NOTICE:  Game ID: 39, Date: 2023-11-02, Location: Sungaipuntik, Sport: basketball
+NOTICE:  Game ID: 136, Date: 2023-01-01, Location: Pinghu, Sport: basketball
+NOTICE:  Game ID: 219, Date: 2022-05-06, Location: Stepnogorsk, Sport: basketball
+NOTICE:  Game ID: 271, Date: 2024-05-14, Location: Hamburg, Sport: basketball
+NOTICE:  Game ID: 53, Date: 2024-06-15, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 250, Date: 2023-10-27, Location: Youxi, Sport: basketball
+NOTICE:  Game ID: 221, Date: 2024-02-18, Location: Huangban, Sport: basketball
+NOTICE:  Game ID: 172, Date: 2025-01-16, Location: Khudāydād Khēl, Sport: basketball
+NOTICE:  Game ID: 5, Date: 2023-06-24, Location: Karlobag, Sport: basketball
+NOTICE:  Game ID: 41, Date: 2023-10-14, Location: Kelin, Sport: basketball
+NOTICE:  Game ID: 81, Date: 2023-05-27, Location: Rama, Sport: basketball
+NOTICE:  Game ID: 260, Date: 2023-09-06, Location: Shengshan, Sport: basketball
+NOTICE:  Game ID: 37, Date: 2022-04-20, Location: Itapissuma, Sport: basketball
+NOTICE:  Game ID: 291, Date: 2022-07-01, Location: Borlänge, Sport: basketball
+NOTICE:  Game ID: 202, Date: 2024-10-31, Location: Mouzáki, Sport: basketball
+NOTICE:  Game ID: 343, Date: 2024-11-19, Location: Morganhaven, Sport: basketball
+NOTICE:  Game ID: 220, Date: 2023-12-26, Location: Casuguran, Sport: basketball
+NOTICE:  Game ID: 240, Date: 2022-12-01, Location: Kamienna Góra, Sport: basketball
+NOTICE:  Game ID: 13, Date: 2024-06-04, Location: <NULL>, Sport: football
+NOTICE:  Game ID: 286, Date: 2023-07-28, Location: Mekarsari, Sport: basketball
+NOTICE:  Game ID: 60, Date: 2024-06-20, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 19, Date: 2024-06-14, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 282, Date: 2023-12-30, Location: Wilmington, Sport: basketball
+NOTICE:  Game ID: 186, Date: 2022-11-30, Location: Changtan, Sport: basketball
+NOTICE:  Game ID: 368, Date: 2025-02-26, Location: Ericaburgh, Sport: basketball
+NOTICE:  Game ID: 93, Date: 2022-12-05, Location: Tampekan, Sport: basketball
+NOTICE:  Game ID: 169, Date: 2022-07-27, Location: Ancenis, Sport: basketball
+NOTICE:  Game ID: 284, Date: 2023-07-04, Location: Kuroda, Sport: basketball
+NOTICE:  Game ID: 119, Date: 2023-01-28, Location: Kilingi-Nõmme, Sport: basketball
+NOTICE:  Game ID: 235, Date: 2023-02-21, Location: Xinying, Sport: basketball
+NOTICE:  Game ID: 137, Date: 2024-05-16, Location: Petroúpolis, Sport: basketball
+NOTICE:  Game ID: 321, Date: 2023-04-19, Location: East Suzanneshire, Sport: basketball
+NOTICE:  Game ID: 62, Date: 2024-06-24, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 43, Date: 2024-06-05, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 147, Date: 2022-11-08, Location: Coronel Belisle, Sport: basketball
+NOTICE:  Game ID: 289, Date: 2022-11-11, Location: Trajouce, Sport: basketball
+NOTICE:  Game ID: 55, Date: 2022-04-04, Location: Ekenäs, Sport: basketball
+NOTICE:  Game ID: 108, Date: 2024-09-30, Location: Oltintopkan, Sport: basketball
+NOTICE:  Game ID: 254, Date: 2023-12-10, Location: Néa Palátia, Sport: basketball
+NOTICE:  Game ID: 230, Date: 2024-04-02, Location: Shijie, Sport: basketball
+NOTICE:  Game ID: 363, Date: 2024-05-15, Location: Knightburgh, Sport: basketball
+NOTICE:  Game ID: 345, Date: 2024-06-22, Location: Grimesmouth, Sport: basketball
+NOTICE:  Game ID: 50, Date: 2024-06-21, Location: Andong, Sport: basketball
+NOTICE:  Game ID: 395, Date: 2024-08-15, Location: Wilsonton, Sport: basketball
+NOTICE:  Game ID: 145, Date: 2025-01-29, Location: Vidoši, Sport: basketball
+NOTICE:  Game ID: 123, Date: 2024-12-03, Location: Krajandadapmulyo, Sport: basketball
+NOTICE:  Game ID: 299, Date: 2023-04-17, Location: Fukuoka-shi, Sport: basketball
+NOTICE:  Game ID: 374, Date: 2023-04-16, Location: Hillshire, Sport: basketball
+NOTICE:  Game ID: 164, Date: 2023-02-11, Location: Bao’an, Sport: basketball
+NOTICE:  Game ID: 87, Date: 2024-02-21, Location: Don Matías, Sport: basketball
+NOTICE:  Game ID: 229, Date: 2024-10-12, Location: Bacun, Sport: basketball
+NOTICE:  Game ID: 59, Date: 2024-06-20, Location: <NULL>, Sport: basketballNOTICE:  Game ID: 237, Date: 2023-10-15, Location: Hanam, Sport: basketball
+NOTICE:  Game ID: 222, Date: 2023-11-04, Location: Uritsk, Sport: basketball
+NOTICE:  Game ID: 218, Date: 2023-03-14, Location: Cork, Sport: basketball
+NOTICE:  Game ID: 91, Date: 2022-05-11, Location: Skoki, Sport: basketball
+NOTICE:  Game ID: 391, Date: 2024-06-26, Location: Carsonstad, Sport: basketball
+NOTICE:  Game ID: 306, Date: 2024-03-13, Location: Evansshire, Sport: basketball
+NOTICE:  Game ID: 40, Date: 2024-12-17, Location: Tegalsari, Sport: basketball
+NOTICE:  Game ID: 200, Date: 2024-04-23, Location: Velikiye Luki, Sport: basketball
+NOTICE:  Game ID: 75, Date: 2023-08-15, Location: Bunut, Sport: basketball
+NOTICE:  Game ID: 281, Date: 2023-07-10, Location: Xintang, Sport: basketball
+NOTICE:  Game ID: 7, Date: 2023-04-30, Location: Skuhrov nad Bělou, Sport: basketball
+NOTICE:  Game ID: 42, Date: 2024-11-26, Location: Ehu, Sport: basketball
+NOTICE:  Game ID: 12, Date: 2024-06-11, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 252, Date: 2024-07-24, Location: Cisownica, Sport: basketball
+NOTICE:  Game ID: 256, Date: 2025-03-06, Location: Longsheng, Sport: basketball
+NOTICE:  Game ID: 226, Date: 2024-03-24, Location: Baishan, Sport: basketball
+NOTICE:  Game ID: 232, Date: 2025-02-28, Location: Afonsoeiro, Sport: basketball
+NOTICE:  Game ID: 2, Date: 2024-06-06, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 193, Date: 2024-05-16, Location: Bosanski Šamac, Sport: basketball
+NOTICE:  Game ID: 170, Date: 2024-05-16, Location: Shiroi, Sport: basketball
+NOTICE:  Game ID: 360, Date: 2024-03-08, Location: Lake Kevin, Sport: basketball
+NOTICE:  Game ID: 338, Date: 2024-03-22, Location: Lake Marilynfort, Sport: basketball
+NOTICE:  Game ID: 20, Date: 2024-08-01, Location: Qijia, Sport: basketball
+NOTICE:  Game ID: 62, Date: 2024-07-01, Location: Shatki, Sport: basketball
+NOTICE:  Game ID: 177, Date: 2025-03-22, Location: Zawichost, Sport: basketball
+NOTICE:  Game ID: 105, Date: 2022-07-27, Location: Buni Yadi, Sport: basketball
+NOTICE:  Game ID: 203, Date: 2025-02-24, Location: Maofan, Sport: basketball
+NOTICE:  Game ID: 355, Date: 2023-10-21, Location: Cindyfurt, Sport: basketball
+NOTICE:  Game ID: 5, Date: 2024-06-13, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 269, Date: 2024-08-24, Location: Guangli, Sport: basketball
+NOTICE:  Game ID: 275, Date: 2023-08-31, Location: Santa Cruz, Sport: basketball
+NOTICE:  Game ID: 58, Date: 2024-06-21, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 66, Date: 2024-08-04, Location: Pirapora do Bom Jesus, Sport: basketball
+NOTICE:  Game ID: 233, Date: 2024-09-23, Location: Jbaïl, Sport: basketball
+NOTICE:  Game ID: 104, Date: 2023-05-16, Location: Gangdong, Sport: basketball
+NOTICE:  Game ID: 380, Date: 2024-06-22, Location: Jessicaland, Sport: basketball
+NOTICE:  Game ID: 126, Date: 2023-10-24, Location: Gornja Koprivna, Sport: basketball
+NOTICE:  Game ID: 277, Date: 2024-09-16, Location: Ashmūn, Sport: basketball
+NOTICE:  Game ID: 273, Date: 2022-06-26, Location: Kebonkalapa, Sport: basketball
+NOTICE:  Game ID: 33, Date: 2023-06-10, Location: Arnaía, Sport: basketball
+NOTICE:  Game ID: 59, Date: 2022-08-04, Location: Sobral da Adiça, Sport: basketball
+NOTICE:  Game ID: 146, Date: 2022-12-31, Location: Pamedaran, Sport: basketball
+NOTICE:  Game ID: 165, Date: 2023-02-08, Location: Säffle, Sport: basketball
+NOTICE:  Game ID: 31, Date: 2024-06-02, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 96, Date: 2024-04-27, Location: Nanniu, Sport: basketball
+NOTICE:  Game ID: 394, Date: 2024-08-14, Location: Lake Madisonport, Sport: basketball
+NOTICE:  Game ID: 350, Date: 2023-05-02, Location: Juliefurt, Sport: basketball
+NOTICE:  Game ID: 55, Date: 2024-06-17, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 13, Date: 2024-05-09, Location: Sukadana, Sport: football
+NOTICE:  Game ID: 204, Date: 2024-04-26, Location: Anderstorp, Sport: basketball
+NOTICE:  Game ID: 179, Date: 2024-01-07, Location: Uritsk, Sport: basketball
+NOTICE:  Game ID: 344, Date: 2023-10-23, Location: West Jessicashire, Sport: basketball
+NOTICE:  Game ID: 71, Date: 2024-08-18, Location: Lajaluhur, Sport: basketball
+NOTICE:  Game ID: 197, Date: 2023-11-10, Location: Chicheng, Sport: basketball
+NOTICE:  Game ID: 76, Date: 2022-07-21, Location: Ḩurayḑah, Sport: basketball
+NOTICE:  Game ID: 258, Date: 2024-11-21, Location: Dalian, Sport: basketball
+NOTICE:  Game ID: 398, Date: 2024-03-16, Location: Ellenside, Sport: basketball
+NOTICE:  Game ID: 54, Date: 2024-06-18, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 56, Date: 2022-09-13, Location: Dongle, Sport: basketball
+NOTICE:  Game ID: 376, Date: 2024-11-21, Location: New Laurie, Sport: basketball
+NOTICE:  Game ID: 270, Date: 2024-03-28, Location: Boncis, Sport: basketball
+NOTICE:  Game ID: 63, Date: 2024-02-03, Location: Ta’ Xbiex, Sport: basketball
+NOTICE:  Game ID: 32, Date: 2024-06-09, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 15, Date: 2024-04-16, Location: Airmata, Sport: basketball
+NOTICE:  Game ID: 257, Date: 2025-02-08, Location: Giồng Riềng, Sport: basketball
+NOTICE:  Game ID: 195, Date: 2024-10-22, Location: Rudo, Sport: basketball
+NOTICE:  Game ID: 307, Date: 2024-02-26, Location: Ashleyton, Sport: basketball
+NOTICE:  Game ID: 386, Date: 2024-12-13, Location: South Sydneyberg, Sport: basketball
+NOTICE:  Game ID: 141, Date: 2024-04-11, Location: Gudja, Sport: basketball
+NOTICE:  Game ID: 243, Date: 2022-11-21, Location: Bang Rakam, Sport: basketball
+NOTICE:  Game ID: 149, Date: 2023-11-13, Location: Velykyy Klyuchiv, Sport: basketball
+NOTICE:  Game ID: 78, Date: 2022-11-11, Location: Sóc Trăng, Sport: basketball
+NOTICE:  Game ID: 158, Date: 2024-12-18, Location: Jaciara, Sport: basketball
+NOTICE:  Game ID: 9, Date: 2024-06-11, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 3, Date: 2025-01-27, Location: Longqiao, Sport: basketball
+NOTICE:  Game ID: 279, Date: 2022-11-01, Location: Sao Hai, Sport: basketball
+NOTICE:  Game ID: 29, Date: 2024-06-09, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 283, Date: 2022-05-26, Location: Shazhouba, Sport: basketball
+NOTICE:  Game ID: 73, Date: 2023-08-29, Location: Wińsko, Sport: basketball
+NOTICE:  Game ID: 38, Date: 2024-09-21, Location: Delray Beach, Sport: basketball
+NOTICE:  Game ID: 325, Date: 2024-06-26, Location: Waltersfort, Sport: basketball
+NOTICE:  Game ID: 68, Date: 2023-10-03, Location: Bocos, Sport: basketball
+NOTICE:  Game ID: 326, Date: 2023-06-08, Location: Baileymouth, Sport: basketball
+NOTICE:  Game ID: 125, Date: 2024-11-22, Location: Przemków, Sport: basketball
+NOTICE:  Game ID: 30, Date: 2025-01-26, Location: Stockholm, Sport: basketball
+NOTICE:  Game ID: 377, Date: 2023-09-16, Location: New John, Sport: basketball
+NOTICE:  Game ID: 340, Date: 2024-02-15, Location: Bairdbury, Sport: basketball
+NOTICE:  Game ID: 188, Date: 2025-01-13, Location: Ostroróg, Sport: basketball
+NOTICE:  Game ID: 132, Date: 2023-01-26, Location: Lakshmīpur, Sport: basketball
+NOTICE:  Game ID: 313, Date: 2023-05-24, Location: West Kristin, Sport: basketball
+NOTICE:  Game ID: 288, Date: 2022-04-04, Location: Siikajoki, Sport: basketball
+NOTICE:  Game ID: 150, Date: 2022-11-06, Location: Arkalyk, Sport: basketball
+NOTICE:  Game ID: 388, Date: 2024-09-03, Location: Coffeyside, Sport: basketball
+NOTICE:  Game ID: 85, Date: 2023-08-23, Location: Sofádes, Sport: basketball
+NOTICE:  Game ID: 57, Date: 2024-06-19, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 27, Date: 2024-06-05, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 266, Date: 2025-01-25, Location: Camajuaní, Sport: basketball
+NOTICE:  Game ID: 18, Date: 2024-06-13, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 135, Date: 2024-03-28, Location: Hexi, Sport: basketball
+NOTICE:  Game ID: 324, Date: 2024-05-06, Location: Moonburgh, Sport: basketball
+NOTICE:  Game ID: 19, Date: 2023-03-13, Location: Kampong Thom, Sport: basketball
+NOTICE:  Game ID: 65, Date: 2023-06-17, Location: Tres Unidos, Sport: basketball
+NOTICE:  Game ID: 276, Date: 2025-03-09, Location: Västerås, Sport: basketball
+NOTICE:  Game ID: 47, Date: 2022-12-19, Location: San Pedro, Sport: basketball
+NOTICE:  Game ID: 304, Date: 2023-11-20, Location: East Davidchester, Sport: basketball
+NOTICE:  Game ID: 8, Date: 2025-02-25, Location: Slavuta, Sport: basketball
+NOTICE:  Game ID: 69, Date: 2022-08-27, Location: Sale, Sport: basketball
+NOTICE:  Game ID: 327, Date: 2023-12-04, Location: Port Eugenechester, Sport: basketball
+NOTICE:  Game ID: 369, Date: 2023-05-26, Location: Landryshire, Sport: basketball
+NOTICE:  Game ID: 45, Date: 2023-05-30, Location: Tawen Aobao, Sport: basketball
+NOTICE:  Game ID: 308, Date: 2024-07-15, Location: Port Jaredborough, Sport: basketball
+NOTICE:  Game ID: 25, Date: 2024-06-12, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 263, Date: 2024-01-13, Location: Pawa, Sport: basketball
+NOTICE:  Game ID: 248, Date: 2023-07-14, Location: Gogosuket, Sport: basketball
+NOTICE:  Game ID: 2, Date: 2025-02-28, Location: Bilopillya, Sport: basketball
+NOTICE:  Game ID: 261, Date: 2024-07-31, Location: Magapit, Sport: basketball
+NOTICE:  Game ID: 67, Date: 2024-12-09, Location: Puerto Berrío, Sport: basketball
+NOTICE:  Game ID: 27, Date: 2023-03-05, Location: Antsirabe, Sport: basketball
+NOTICE:  Game ID: 245, Date: 2022-07-13, Location: Alakak, Sport: basketball
+NOTICE:  Game ID: 264, Date: 2022-08-04, Location: Gostyń, Sport: basketball
+NOTICE:  Game ID: 152, Date: 2023-02-17, Location: Tours, Sport: basketball
+NOTICE:  Game ID: 205, Date: 2024-06-11, Location: Palmares, Sport: basketball
+NOTICE:  Game ID: 182, Date: 2024-05-05, Location: Kadubadak, Sport: basketball
+NOTICE:  Game ID: 399, Date: 2024-02-18, Location: South Diana, Sport: basketball
+NOTICE:  Game ID: 295, Date: 2024-05-06, Location: Bang Kho Laem, Sport: basketball
+NOTICE:  Game ID: 255, Date: 2024-12-09, Location: Pantijan No 2, Sport: basketball
+NOTICE:  Game ID: 48, Date: 2024-06-06, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 379, Date: 2024-07-29, Location: West Kristinaton, Sport: basketball
+NOTICE:  Game ID: 198, Date: 2023-12-09, Location: Daminggong, Sport: basketball
+NOTICE:  Game ID: 353, Date: 2023-06-15, Location: Smithberg, Sport: basketball
+NOTICE:  Game ID: 365, Date: 2024-01-21, Location: South Roberta, Sport: basketball
+NOTICE:  Game ID: 128, Date: 2023-10-30, Location: Reims, Sport: basketball
+NOTICE:  Game ID: 22, Date: 2023-12-17, Location: Leeuwarden, Sport: basketball
+NOTICE:  Game ID: 215, Date: 2025-01-03, Location: Bayanbulag, Sport: basketball
+NOTICE:  Game ID: 101, Date: 2024-05-01, Location: Głuchów, Sport: basketball
+NOTICE:  Game ID: 303, Date: 2023-07-25, Location: Port Anna, Sport: basketball
+NOTICE:  Game ID: 191, Date: 2022-11-15, Location: Zhouji, Sport: basketball
+NOTICE:  Game ID: 134, Date: 2024-04-12, Location: Gotovlje, Sport: basketball
+NOTICE:  Game ID: 26, Date: 2022-10-15, Location: Zwolle, Sport: basketball
+NOTICE:  Game ID: 121, Date: 2024-05-01, Location: Hinlayagan Ilaud, Sport: basketball
+NOTICE:  Game ID: 392, Date: 2023-06-22, Location: South Angel, Sport: basketball
+NOTICE:  Game ID: 45, Date: 2024-06-03, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 117, Date: 2023-11-12, Location: Lincheng, Sport: basketball
+NOTICE:  Game ID: 311, Date: 2024-09-15, Location: Carterbury, Sport: basketball
+NOTICE:  Game ID: 23, Date: 2024-06-05, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 346, Date: 2024-05-21, Location: Reedside, Sport: basketball
+NOTICE:  Game ID: 239, Date: 2023-09-10, Location: Allealle, Sport: basketball
+NOTICE:  Game ID: 302, Date: 2024-02-04, Location: Joneston, Sport: basketball
+NOTICE:  Game ID: 14, Date: 2024-06-10, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 349, Date: 2024-01-21, Location: Port Kimberly, Sport: basketball
+NOTICE:  Game ID: 342, Date: 2024-07-07, Location: Port Chad, Sport: basketball
+NOTICE:  Game ID: 110, Date: 2022-03-30, Location: Oujda, Sport: basketball
+NOTICE:  Game ID: 354, Date: 2024-02-11, Location: North Terrance, Sport: basketball
+NOTICE:  Game ID: 317, Date: 2025-03-14, Location: Scottmouth, Sport: basketball
+NOTICE:  Game ID: 175, Date: 2023-08-07, Location: Uíge, Sport: basketball
+NOTICE:  Game ID: 265, Date: 2022-07-31, Location: Wielka Nieszawka, Sport: basketball
+NOTICE:  Game ID: 285, Date: 2022-04-28, Location: Baie-D'Urfé, Sport: basketball
+NOTICE:  Game ID: 17, Date: 2024-06-03, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 335, Date: 2024-09-22, Location: Martinezbury, Sport: basketball
+NOTICE:  Game ID: 181, Date: 2022-07-27, Location: Oslo, Sport: basketball
+NOTICE:  Game ID: 24, Date: 2022-10-22, Location: Kisanga, Sport: basketball
+NOTICE:  Game ID: 139, Date: 2024-07-12, Location: Kcynia, Sport: basketball
+NOTICE:  Game ID: 3, Date: 2024-06-03, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 39, Date: 2024-06-04, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 138, Date: 2025-03-28, Location: Langenburg, Sport: basketball
+NOTICE:  Game ID: 15, Date: 2024-06-14, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 32, Date: 2024-01-21, Location: Semuda, Sport: basketball
+NOTICE:  Game ID: 272, Date: 2024-09-10, Location: Dzikowiec, Sport: basketball
+NOTICE:  Game ID: 217, Date: 2023-10-30, Location: Sumpur Kudus, Sport: basketball
+NOTICE:  Game ID: 120, Date: 2023-05-23, Location: Nagorsk, Sport: basketball
+NOTICE:  Game ID: 144, Date: 2023-04-18, Location: Mabasa, Sport: basketball
+NOTICE:  Game ID: 316, Date: 2023-05-24, Location: East Laurashire, Sport: basketball
+NOTICE:  Game ID: 35, Date: 2024-06-11, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 36, Date: 2022-10-16, Location: Liquan Chengguanzhen, Sport: basketball
+NOTICE:  Game ID: 387, Date: 2024-11-04, Location: Port Erica, Sport: basketball
+NOTICE:  Game ID: 22, Date: 2024-06-05, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 278, Date: 2024-07-12, Location: Pacaraos, Sport: basketball
+NOTICE:  Game ID: 312, Date: 2023-11-08, Location: Jacquelinemouth, Sport: basketball
+NOTICE:  Game ID: 187, Date: 2023-12-15, Location: Budapest, Sport: basketball
+NOTICE:  Game ID: 47, Date: 2024-06-02, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 216, Date: 2023-09-18, Location: Huancheng, Sport: basketball
+NOTICE:  Game ID: 41, Date: 2024-06-04, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 11, Date: 2022-04-07, Location: Nerokoúros, Sport: basketball
+NOTICE:  Game ID: 90, Date: 2024-12-06, Location: Maliang, Sport: basketball
+NOTICE:  Game ID: 160, Date: 2025-01-14, Location: Sel’tso, Sport: basketball
+NOTICE:  Game ID: 236, Date: 2023-09-13, Location: Comodoro Rivadavia, Sport: basketball
+NOTICE:  Game ID: 102, Date: 2023-10-25, Location: Gujō, Sport: basketball
+NOTICE:  Game ID: 157, Date: 2024-02-11, Location: Alto Barinas, Sport: basketball
+NOTICE:  Game ID: 74, Date: 2024-08-21, Location: Bogatynia, Sport: basketball
+NOTICE:  Game ID: 148, Date: 2022-12-17, Location: Fengyang, Sport: basketball
+NOTICE:  Game ID: 16, Date: 2022-06-17, Location: Cabog, Sport: basketball
+NOTICE:  Game ID: 159, Date: 2022-11-03, Location: Dakingari, Sport: basketball
+NOTICE:  Game ID: 246, Date: 2022-11-17, Location: Créteil, Sport: basketball
+NOTICE:  Game ID: 155, Date: 2024-08-14, Location: Babica, Sport: basketball
+NOTICE:  Game ID: 185, Date: 2022-07-30, Location: Picungbera, Sport: basketball
+NOTICE:  Game ID: 131, Date: 2025-02-06, Location: Muzayri‘, Sport: basketball
+NOTICE:  Game ID: 330, Date: 2023-12-06, Location: Port Richardhaven, Sport: basketball
+NOTICE:  Game ID: 333, Date: 2024-07-27, Location: Wolfborough, Sport: basketball
+NOTICE:  Game ID: 61, Date: 2024-06-23, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 156, Date: 2023-09-18, Location: Pereval'noe, Sport: basketball
+NOTICE:  Game ID: 127, Date: 2024-02-10, Location: Baishi, Sport: basketball
+NOTICE:  Game ID: 130, Date: 2024-06-28, Location: Arbais, Sport: basketball
+NOTICE:  Game ID: 133, Date: 2024-11-03, Location: Lubenia, Sport: basketball
+NOTICE:  Game ID: 106, Date: 2023-04-03, Location: Lyubotyn, Sport: basketball
+NOTICE:  Game ID: 13, Date: 2024-05-09, Location: Sukadana, Sport: basketball
+NOTICE:  Game ID: 53, Date: 2024-07-24, Location: Yylanly, Sport: basketball
+NOTICE:  Game ID: 348, Date: 2025-02-02, Location: Lake John, Sport: basketball
+NOTICE:  Games for player Chase Britt (ID: 2):
+NOTICE:  Game ID: 176, Date: 2024-12-22, Location: Klatovy, Sport: basketball
+NOTICE:  Game ID: 79, Date: 2024-05-13, Location: Sierpc, Sport: basketball
+NOTICE:  Game ID: 389, Date: 2024-01-08, Location: Port Ralphview, Sport: basketball
+NOTICE:  Game ID: 95, Date: 2025-01-01, Location: Daireaux, Sport: basketball
+NOTICE:  Game ID: 28, Date: 2023-01-07, Location: Esquel, Sport: basketball
+NOTICE:  Game ID: 364, Date: 2023-08-09, Location: North Chelsea, Sport: basketball
+NOTICE:  Game ID: 42, Date: 2024-06-10, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 184, Date: 2023-01-06, Location: Yasnyy, Sport: basketball
+NOTICE:  Game ID: 23, Date: 2024-12-17, Location: Santo Niño, Sport: basketball
+NOTICE:  Game ID: 292, Date: 2022-05-12, Location: Carvalhinho, Sport: basketball
+NOTICE:  Game ID: 1, Date: 2024-06-09, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 208, Date: 2023-11-10, Location: Sundbyberg, Sport: basketball
+NOTICE:  Game ID: 341, Date: 2024-03-18, Location: South James, Sport: basketball
+NOTICE:  Game ID: 249, Date: 2024-05-02, Location: Sąspów, Sport: basketball
+NOTICE:  Game ID: 48, Date: 2025-03-06, Location: Peraía, Sport: basketball
+NOTICE:  Game ID: 332, Date: 2024-02-13, Location: East Aprilfort, Sport: basketball
+NOTICE:  Game ID: 167, Date: 2024-12-06, Location: Abaca, Sport: basketball
+NOTICE:  Game ID: 362, Date: 2024-01-02, Location: Ryanbury, Sport: basketball
+NOTICE:  Game ID: 280, Date: 2024-03-08, Location: Labin, Sport: basketball
+NOTICE:  Game ID: 351, Date: 2024-01-23, Location: South Tammie, Sport: basketball
+NOTICE:  Game ID: 247, Date: 2024-06-02, Location: Kuloy, Sport: basketball
+NOTICE:  Game ID: 174, Date: 2022-12-21, Location: Huadian, Sport: basketball
+NOTICE:  Game ID: 44, Date: 2024-06-10, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 385, Date: 2024-04-07, Location: Juliemouth, Sport: basketball
+NOTICE:  Game ID: 400, Date: 2025-01-05, Location: Gilbertview, Sport: basketball
+NOTICE:  Game ID: 305, Date: 2024-07-12, Location: Port Alexandra, Sport: basketball
+NOTICE:  Game ID: 107, Date: 2022-06-08, Location: Sydney, Sport: basketball
+NOTICE:  Game ID: 37, Date: 2024-06-09, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 129, Date: 2024-06-15, Location: San Nicolas, Sport: basketball
+NOTICE:  Game ID: 357, Date: 2024-01-19, Location: Courtneyfort, Sport: basketball
+NOTICE:  Game ID: 274, Date: 2025-01-12, Location: Al Ya‘rubīyah, Sport: basketball
+NOTICE:  Game ID: 173, Date: 2024-05-07, Location: Jankomir, Sport: basketball
+NOTICE:  Game ID: 206, Date: 2024-10-20, Location: Leuwayang, Sport: basketball
+NOTICE:  Game ID: 166, Date: 2024-09-14, Location: Duwakbuter, Sport: basketball
+NOTICE:  Game ID: 151, Date: 2023-12-27, Location: Tuatuka, Sport: basketball
+NOTICE:  Game ID: 293, Date: 2024-10-15, Location: Zaraza, Sport: basketball
+NOTICE:  Game ID: 92, Date: 2023-11-04, Location: Xiangba, Sport: basketball
+NOTICE:  Game ID: 82, Date: 2025-01-16, Location: Xihe, Sport: basketball
+NOTICE:  Game ID: 49, Date: 2024-06-16, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 234, Date: 2022-09-02, Location: Rafael Perazza, Sport: basketball
+NOTICE:  Game ID: 225, Date: 2024-07-23, Location: Ōmura, Sport: basketball
+NOTICE:  Game ID: 210, Date: 2023-10-23, Location: Spasskoye, Sport: basketball
+NOTICE:  Game ID: 33, Date: 2024-06-09, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 207, Date: 2025-03-12, Location: Novo Horizonte, Sport: basketball
+NOTICE:  Game ID: 142, Date: 2023-05-05, Location: Kovdor, Sport: basketball
+NOTICE:  Game ID: 168, Date: 2023-11-24, Location: Ning’er, Sport: basketball
+NOTICE:  Game ID: 58, Date: 2022-08-26, Location: Camp Ithier, Sport: basketball
+NOTICE:  Game ID: 103, Date: 2024-12-17, Location: Znojmo, Sport: basketball
+NOTICE:  Game ID: 28, Date: 2024-06-06, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 231, Date: 2023-09-13, Location: Abuja, Sport: basketball
+NOTICE:  Game ID: 116, Date: 2023-11-20, Location: Fairview, Sport: basketball
+NOTICE:  Game ID: 21, Date: 2024-11-22, Location: Libušín, Sport: basketball
+NOTICE:  Game ID: 46, Date: 2024-06-02, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 52, Date: 2024-06-17, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 26, Date: 2024-06-13, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 228, Date: 2024-05-29, Location: Yuhuangding, Sport: basketball
+NOTICE:  Game ID: 86, Date: 2023-03-07, Location: Afonsoeiro, Sport: basketball
+NOTICE:  Game ID: 310, Date: 2023-05-27, Location: North Ricky, Sport: basketball
+NOTICE:  Game ID: 211, Date: 2024-07-21, Location: Yarmolyntsi, Sport: basketball
+NOTICE:  Game ID: 238, Date: 2022-12-12, Location: Zhankhoteko, Sport: basketball
+NOTICE:  Game ID: 201, Date: 2022-10-31, Location: Adelaide, Sport: basketball
+NOTICE:  Game ID: 318, Date: 2024-09-14, Location: Hollyview, Sport: basketball
+NOTICE:  Game ID: 294, Date: 2024-06-20, Location: San Diego, Sport: basketball
+NOTICE:  Game ID: 397, Date: 2023-06-13, Location: New Derek, Sport: basketball
+NOTICE:  Game ID: 262, Date: 2024-01-24, Location: Semalang, Sport: basketball
+NOTICE:  Game ID: 371, Date: 2025-01-14, Location: Jamesfurt, Sport: basketball
+NOTICE:  Game ID: 358, Date: 2025-02-04, Location: New Caseyport, Sport: basketball
+NOTICE:  Game ID: 77, Date: 2025-03-19, Location: Bunol, Sport: basketball
+NOTICE:  Game ID: 70, Date: 2022-06-22, Location: Velingrad, Sport: basketball
+NOTICE:  Game ID: 296, Date: 2024-08-11, Location: Vargas, Sport: basketball
+NOTICE:  Game ID: 328, Date: 2024-09-18, Location: Robertsfurt, Sport: basketball
+NOTICE:  Game ID: 171, Date: 2022-08-27, Location: Kalkara, Sport: basketball
+NOTICE:  Game ID: 329, Date: 2024-12-20, Location: South Christopherview, Sport: basketball
+NOTICE:  Game ID: 361, Date: 2023-04-21, Location: West Lauraport, Sport: basketball
+NOTICE:  Game ID: 331, Date: 2024-12-29, Location: Lake Mollymouth, Sport: basketball
+NOTICE:  Game ID: 339, Date: 2025-03-23, Location: Williamview, Sport: basketball
+NOTICE:  Game ID: 21, Date: 2024-06-09, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 227, Date: 2023-08-04, Location: Mizoch, Sport: basketball
+NOTICE:  Game ID: 43, Date: 2024-01-17, Location: Fatufeto, Sport: football
+NOTICE:  Game ID: 223, Date: 2024-10-01, Location: Marseille, Sport: basketball
+NOTICE:  Game ID: 268, Date: 2024-09-04, Location: Cát Bà, Sport: basketball
+NOTICE:  Game ID: 162, Date: 2022-08-13, Location: Fenghuang, Sport: basketball
+NOTICE:  Game ID: 390, Date: 2024-05-19, Location: South Miguelview, Sport: basketball
+NOTICE:  Game ID: 378, Date: 2024-11-05, Location: Lake Colton, Sport: basketball
+NOTICE:  Game ID: 94, Date: 2023-11-19, Location: Mahong, Sport: basketball
+NOTICE:  Game ID: 100, Date: 2022-04-30, Location: Le Havre, Sport: basketball
+NOTICE:  Game ID: 320, Date: 2025-02-17, Location: Navarroview, Sport: basketball
+NOTICE:  Game ID: 253, Date: 2022-09-13, Location: Jinshiqiao, Sport: basketball
+NOTICE:  Game ID: 52, Date: 2024-10-29, Location: Fergana, Sport: basketball
+NOTICE:  Game ID: 161, Date: 2022-12-30, Location: Dordrecht, Sport: basketball
+NOTICE:  Game ID: 183, Date: 2023-08-13, Location: Żyraków, Sport: basketball
+NOTICE:  Game ID: 9, Date: 2022-04-03, Location: Kotawaikabubak, Sport: basketball
+NOTICE:  Game ID: 6, Date: 2024-06-06, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 12, Date: 2022-11-20, Location: Idi Rayeuk, Sport: basketball
+NOTICE:  Game ID: 336, Date: 2024-10-01, Location: West Andrea, Sport: basketball
+NOTICE:  Game ID: 314, Date: 2024-07-27, Location: South Danny, Sport: basketball
+NOTICE:  Game ID: 153, Date: 2023-03-18, Location: Pueblo Nuevo, Sport: basketball
+NOTICE:  Game ID: 178, Date: 2024-12-05, Location: Kamalasai, Sport: basketball
+NOTICE:  Game ID: 301, Date: 2023-10-12, Location: Wilsonland, Sport: basketball
+NOTICE:  Game ID: 315, Date: 2023-09-20, Location: West Margaret, Sport: basketball
+NOTICE:  Game ID: 381, Date: 2025-03-05, Location: Markchester, Sport: basketball
+NOTICE:  Game ID: 122, Date: 2023-08-18, Location: Demba, Sport: basketball
+NOTICE:  Game ID: 209, Date: 2023-07-25, Location: Krzeszów, Sport: basketball
+NOTICE:  Game ID: 7, Date: 2024-06-08, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 13, Date: 2024-06-04, Location: <NULL>, Sport: basketball
+NOTICE:  Game ID: 99, Date: 2022-12-29, Location: Fendou, Sport: basketball
+NOTICE:  Game ID: 163, Date: 2022-06-06, Location: Gasri, Sport: basketball
+NOTICE:  Game ID: 72, Date: 2023-12-15, Location: Rychvald, Sport: basketball
+....
